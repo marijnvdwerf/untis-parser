@@ -1,0 +1,1259 @@
+00F   ,?,,,,,,,,,,N,,,0,406461243
+00F   ,3d1,,,,,,,,,,N,,,0,406461243
+00F   ,3d2,,,,,,,,,,N,,,0,406461243
+00F   ,3du,"3d Unreal minor Gd blok4",,,,,,,,,N,,,0,406461243
+00F   ,3dv1,"virtual 3d",,,,,,,,,N,,,0,408481720
+00F   ,A&S,"ls",,,,,,,,,N,,,0,406461243
+00F   ,A&T,"ls",,,,,,,,,N,,,0,406461243
+00F   ,abm71,,,,,,,,,,N,,,0,408481720
+00F   ,abm72,,,,,,,,,,N,,,0,409361734
+00F   ,Ace,"automotive bij engineering",,,,,,,,,N,,,0,409361916
+00F   ,ad41,"art direction m7",,,,,,,,,N,,,0,410171023
+00F   ,adg ict,,,,,,,,,,N,,,0,406461243
+00F   ,adhoc,,,,,,,,,,N,,,0,408481721
+00F   ,ado1,"adm. organisatie 1",,,,,,,,,N,,,0,408481720
+00F   ,advPCgeb,,,,,,,,,,N,,,0,406461243
+00F   ,afstuderen,,,,,,,,,,,,,0,410171024
+00F   ,Aid hand,,,,,,,,,,,,,0,410171024
+00F   ,Alice,,,,,,,,,,,,,0,410171024
+00F   ,anm,"animatie imd DT",,,,,,,,,N,,,0,406461243
+00F   ,ansp1,"analyse & specificatie1",,,,,,,,,N,,,0,406461243
+00F   ,ansp2,"analyse & specificatie2",,,,,,,,,N,,,0,406461243
+00F   ,ao,"adm. organisatie",,,,,,,,,N,,,0,406461243
+00F   ,ao31,"adm. organisatie p5",,,,,,,,,N,,,0,406461243
+00F   ,ao32,"adm. organisatie p6",,,,,,,,,N,,,0,406461243
+00F   ,ao41,"adm. organisatie p7",,,,,,,,,N,,,0,410171023
+00F   ,ao61,"adm. organisatie sem 6",,,,,,,,,N,,,0,407431400
+00F   ,ao62,"adm. organisatie sem 6",,,,,,,,,N,,,0,407431400
+00F   ,apbeh,"apl. beheer -fastlane",,,,,,,,,N,,,0,407431400
+00F   ,apv,,,,,,,,,,,,,0,410171024
+00F   ,arch61,,,,,,,,,,N,,,0,407431400
+00F   ,arch62,,,,,,,,,,N,,,0,407431400
+00F   ,archB,"Business Architecture",,,,,,,,,N,,,0,406461243
+00F   ,asi,,,,,,,,,,N,,,0,406461243
+00F   ,asi22,,,,,,,,,,,,,0,410171024
+00F   ,asl,"application service library",,,,,,,,,N,,,0,406461243
+00F   ,assessment,,,,,,,,,,,,,0,410171024
+00F   ,assgroep,,,,,,,,,,N,,,0,406461243
+00F   ,avp42,"audioviv.prototyping m8",,,,,,,,,,,,0,410171024
+00F   ,awv2,"Alg.Wiskunde eng. stream",,,,,,,,,N,,,0,406461243
+00F   ,ba22,,,,,,,,,,,,,0,410171025
+00F   ,bc1,,,,,,,,,,N,,,0,406461243
+00F   ,bc2,,,,,,,,,,N,,,0,409361735
+00F   ,bc3,,,,,,,,,,N,,,0,406461243
+00F   ,bc31,"Beroepscontext 31",,,,,,,,,N,,,0,406461243
+00F   ,bc32,"Beroepscontext 32",,,,,,,,,N,,,0,406461243
+00F   ,bc41,"Beroepscontext 41",,,,,,,,,N,,,0,408481720
+00F   ,bc42,"Beroepscontext 42",,,,,,,,,N,,,0,406461243
+00F   ,bd-d,,,,,,,,,,,,,0,410171025
+00F   ,bd-i,,,,,,,,,,,,,0,410171025
+00F   ,bd-o,,,,,,,,,,N,,,0,410171023
+00F   ,bd-po,,,,,,,,,,,,,0,410171025
+00F   ,be/ba,,,,,,,,,,N,,,0,400991717
+00F   ,be21,"Bedrijfseconomie",,,,,,,,,N,,,0,410171023
+00F   ,be42,,,,,,,,,,,,,0,410171025
+00F   ,bec,"Bedrijfseconomie",,,,,,,,,N,,,0,408481720
+00F   ,bec1,"Bedrijfseconomie1",,,,,,,,,N,,,0,406461243
+00F   ,bec2,"Bedrijfseconomie2",,,,,,,,,N,,,0,407431400
+00F   ,bedrijvendag,,,,,,,,,,,,,0,410171025
+00F   ,bee,"bedr. ec. DT",,,,,,,,,,,,0,410171025
+00F   ,BE-P3P4,,,,,,,,,,N,,,0,400991717
+00F   ,BE-P5P6,,,,,,,,,,N,,,0,400991717
+00F   ,bespreking,,,,,,,,,,N,,,0,410171023
+00F   ,be-TI,,,,,,,,,,N,,,0,406461243
+00F   ,beurs,,,,,,,,,,N,,,0,406461243
+00F   ,B-GDT,,,,,,,,,,N,,,0,404721850
+00F   ,bi,,,,,,,,,,N,,,0,406461243
+00F   ,bi+ uitvoer,,,,,,,,,,N,,,0,406461243
+00F   ,B-ict,,,,,,,,,,N,,,0,400991717
+00F   ,bi-imdteam,,,,,,,,,,N,,,0,406461243
+00F   ,B-IMS,,,,,,,,,,N,,,0,410171023
+00F   ,bin1,"business intelligence",,,,,,,,,N,,,0,408481720
+00F   ,bi-ontw,,,,,,,,,,N,,,0,406461243
+00F   ,BI-overleg,,,,,,,,,,N,,,0,406461243
+00F   ,bis,"bus.inf.syst. DT",,,,,,,,,N,,,0,409361735
+00F   ,bk12,"bedrijfskunde",,,,,,,,,,,,0,410171025
+00F   ,bk2,"bedrijfskunde",,,,,,,,,N,,,0,406461243
+00F   ,bk21,"bedrijfskunde",,,,,,,,,N,,,0,406461243
+00F   ,bk21v,"bedrijfskunde verkort",,,,,,,,,N,,,0,406461243
+00F   ,bk22,"bedrijfskunde",,,,,,,,,,,,0,410171026
+00F   ,bk22v,"bedrijfskunde verkort",,,,,,,,,N,,,0,406461243
+00F   ,bk2V,"bedrijfskunde verkort",,,,,,,,,N,,,0,410171026
+00F   ,bk3,"bedrijfskunde",,,,,,,,,N,,,0,406461243
+00F   ,bk3/ec,,,,,,,,,,N,,,0,406461243
+00F   ,bk3/mar,,,,,,,,,,N,,,0,406461243
+00F   ,bk31,"bedrijfskunde p5",,,,,,,,,N,,,0,408481720
+00F   ,bk32,"bedrijfskunde p6",,,,,,,,,,,,0,410171026
+00F   ,bk32ab,,,,,,,,,,N,,,0,406461243
+00F   ,bk32fb,,,,,,,,,,N,,,0,406461243
+00F   ,bk32to,,,,,,,,,,N,,,0,406461243
+00F   ,bk3ab,,,,,,,,,,N,,,0,406461243
+00F   ,bk3f,,,,,,,,,,N,,,0,406461243
+00F   ,bk41,"bedrijfskunde p7",,,,,,,,,N,,,0,410171023
+00F   ,bk42,"bedrijfskunde 42",,,,,,,,,,,,0,410171026
+00F   ,bk4f,,,,,,,,,,N,,,0,406461243
+00F   ,bk7,,,,,,,,,,N,,,0,410171023
+00F   ,bkab32,,,,,,,,,,N,,,0,406461243
+00F   ,bkn,"bedrijfskunde deeltijd",,,,,,,,,N,,,0,407431400
+00F   ,bkov31,,,,,,,,,,N,,,0,406461243
+00F   ,bktb,,,,,,,,,,N,,,0,406461243
+00F   ,bktb31,,,,,,,,,,N,,,0,406461243
+00F   ,bkto32,,,,,,,,,,N,,,0,406461243
+00F   ,Blok-GDT,,,,,,,,,,N,,,0,406531347
+00F   ,Blok-IMS,,,,,,,,,,N,,,0,406531347
+00F   ,Blok-LS,,,,,,,,,,N,,,0,406521525
+00F   ,Blok-P1,,,,,,,,,,N,,,0,406521526
+00F   ,Blok-P11B,,,,,,,,,,N,,,0,406521526
+00F   ,Blok-P11M,,,,,,,,,,N,,,0,406521526
+00F   ,Blok-P11S,,,,,,,,,,N,,,0,406521527
+00F   ,Blok-P11T,,,,,,,,,,N,,,0,406521527
+00F   ,Blok-P12B,,,,,,,,,,N,,,0,406521527
+00F   ,Blok-P12M,,,,,,,,,,N,,,0,406521527
+00F   ,Blok-P12S,,,,,,,,,,N,,,0,406521527
+00F   ,Blok-P12T,,,,,,,,,,N,,,0,406521527
+00F   ,Blok-P13B,,,,,,,,,,N,,,0,406521527
+00F   ,Blok-P13M,,,,,,,,,,N,,,0,406521527
+00F   ,Blok-P13S,,,,,,,,,,N,,,0,406521528
+00F   ,Blok-P13T,,,,,,,,,,N,,,0,406521528
+00F   ,Blok-P14B,,,,,,,,,,N,,,0,408641113
+00F   ,Blok-P14M,,,,,,,,,,N,,,0,406531500
+00F   ,Blok-P14S,,,,,,,,,,N,,,0,408641113
+00F   ,Blok-P14T,,,,,,,,,,N,,,0,408641113
+00F   ,Blok-P2,,,,,,,,,,N,,,0,406521528
+00F   ,Blok-P2T,,,,,,,,,,N,,,0,406521528
+00F   ,Blok-P3B,,,,,,,,,,N,,,0,406521528
+00F   ,Blok-P3M,,,,,,,,,,N,,,0,406521528
+00F   ,Blok-P3S,,,,,,,,,,N,,,0,406521528
+00F   ,Blok-P3T,,,,,,,,,,N,,,0,406521528
+00F   ,Blok-P4B,,,,,,,,,,N,,,0,406521528
+00F   ,Blok-P4M,,,,,,,,,,N,,,0,406521529
+00F   ,Blok-P4S,,,,,,,,,,N,,,0,406521529
+00F   ,Blok-P4T,,,,,,,,,,N,,,0,406521529
+00F   ,Blok-P5B,,,,,,,,,,N,,,0,406521529
+00F   ,Blok-P5M,,,,,,,,,,N,,,0,406521530
+00F   ,Blok-P5S,,,,,,,,,,N,,,0,406521530
+00F   ,Blok-P5T,,,,,,,,,,N,,,0,406521530
+00F   ,Blok-P6b,,,,,,,,,,N,,,0,406521531
+00F   ,Blok-P6m,,,,,,,,,,N,,,0,406521531
+00F   ,Blok-P6s,,,,,,,,,,N,,,0,406521531
+00F   ,Blok-P6t,,,,,,,,,,N,,,0,406521621
+00F   ,Blok-P7b,,,,,,,,,,N,,,0,406521621
+00F   ,Blok-P7m,,,,,,,,,,N,,,0,406521621
+00F   ,Blok-P7s,,,,,,,,,,N,,,0,406521622
+00F   ,Blok-P7t,,,,,,,,,,N,,,0,406521622
+00F   ,Blok-P8b,,,,,,,,,,N,,,0,406521622
+00F   ,Blok-P8m,,,,,,,,,,N,,,0,406521622
+00F   ,Blok-P8s,,,,,,,,,,N,,,0,406521622
+00F   ,Blok-P8t,,,,,,,,,,N,,,0,406521622
+00F   ,Blok-SM,,,,,,,,,,N,,,0,406521526
+00F   ,B-LS,,,,,,,,,,N,,,0,410171023
+00F   ,B-LS1,,,,,,,,,,N,,,0,410171023
+00F   ,B-LS-SM,,,,,,,,,,N,,,0,410171023
+00F   ,B-MC,,,,,,,,,,N,,,0,410171023
+00F   ,B-MC1,,,,,,,,,,N,,,0,410171023
+00F   ,B-P1,,,,,,,,,,N,,,0,410171023
+00F   ,B-P11B,,,,,,,,,,N,,,0,402101804
+00F   ,B-P11M,,,,,,,,,,N,,,0,402101804
+00F   ,B-P11S,,,,,,,,,,N,,,0,402101803
+00F   ,B-P11T,,,,,,,,,,N,,,0,402101803
+00F   ,B-P12B,,,,,,,,,,N,,,0,402821650
+00F   ,B-P12M,,,,,,,,,,N,,,0,402821650
+00F   ,B-P12S,,,,,,,,,,N,,,0,402821650
+00F   ,B-P12T,,,,,,,,,,N,,,0,402821650
+00F   ,B-P13B,,,,,,,,,,N,,,0,410171023
+00F   ,B-P13M,,,,,,,,,,N,,,0,410171023
+00F   ,B-P13S,,,,,,,,,,N,,,0,410171023
+00F   ,B-P13T,,,,,,,,,,N,,,0,410171023
+00F   ,B-P2,,,,,,,,,,N,,,0,402821652
+00F   ,B-P2T,,,,,,,,,,N,,,0,401481545
+00F   ,B-P3B,,,,,,,,,,N,,,0,410171023
+00F   ,B-P3M,,,,,,,,,,N,,,0,410171023
+00F   ,B-P3S,,,,,,,,,,N,,,0,410171023
+00F   ,B-P3T,,,,,,,,,,N,,,0,410171023
+00F   ,B-P4B,,,,,,,,,,N,,,0,402821650
+00F   ,B-P4M,,,,,,,,,,N,,,0,402821650
+00F   ,B-P4S,,,,,,,,,,N,,,0,402821650
+00F   ,B-P4T,,,,,,,,,,N,,,0,402821650
+00F   ,B-P5b,,,,,,,,,,N,,,0,410171023
+00F   ,B-P5B,,,,,,,,,,N,,,0,410171023
+00F   ,B-P5m,,,,,,,,,,N,,,0,410171023
+00F   ,B-P5M,,,,,,,,,,N,,,0,410171023
+00F   ,B-P5s,,,,,,,,,,N,,,0,410171023
+00F   ,B-P5S,,,,,,,,,,N,,,0,410171023
+00F   ,B-P5t,,,,,,,,,,N,,,0,410171023
+00F   ,B-P5T,,,,,,,,,,N,,,0,410171023
+00F   ,B-P6b,,,,,,,,,,N,,,0,401481545
+00F   ,B-P6m,,,,,,,,,,N,,,0,401481545
+00F   ,B-P6s,,,,,,,,,,N,,,0,401481545
+00F   ,B-P6t,,,,,,,,,,N,,,0,401481545
+00F   ,B-P7b,,,,,,,,,,N,,,0,410171023
+00F   ,B-P7m,,,,,,,,,,N,,,0,402101803
+00F   ,B-P7s,,,,,,,,,,N,,,0,402101803
+00F   ,B-P7t,,,,,,,,,,N,,,0,402101803
+00F   ,B-P8b,,,,,,,,,,N,,,0,402821650
+00F   ,B-P8m,,,,,,,,,,N,,,0,402821650
+00F   ,B-P8s,,,,,,,,,,N,,,0,402821650
+00F   ,B-P8t,,,,,,,,,,N,,,0,402821650
+00F   ,bpi,,,,,,,,,,N,,,0,408481720
+00F   ,bpi71,,,,,,,,,,N,,,0,406461243
+00F   ,bpi-to,,,,,,,,,,N,,,0,406461243
+00F   ,bpr71,,,,,,,,,,N,,,0,406461243
+00F   ,briefing,,,,,,,,,,N,,,0,410171023
+00F   ,bs41,"business study 41",,,,,,,,,N,,,0,410171023
+00F   ,bs42,"business study 42",,,,,,,,,,,,0,410171030
+00F   ,bs-d,"dt-AD dienstverlening",,,,,,,,,N,,,0,409361735
+00F   ,bs-m,"dt-AD modellen voor beheer",,,,,,,,,N,,,0,407811607
+00F   ,bs-pf,"dt-AD portefolio",,,,,,,,,,,,0,410171030
+00F   ,bs-po,"dt-AD praktijkopdracht",,,,,,,,,N,,,0,409361735
+00F   ,bs-s,"dt-AD software",,,,,,,,,N,,,0,409361735
+00F   ,buin,,,,,,,,,,N,,,0,402821650
+00F   ,busEc,"business economics (msc)",,,,,,,,,N,,,0,406461243
+00F   ,bv21,"Beroepsvaardigheden",,,,,,,,,N,,,0,404721851
+00F   ,bv21v,"beroepsvaardigheden verkort",,,,,,,,,N,,,0,404721851
+00F   ,bv22,"Beroepsvaardigheden",,,,,,,,,N,,,0,410171023
+00F   ,bv2v,,,,,,,,,,N,,,0,404721852
+00F   ,bv31,"Beroepsvaardigheden",,,,,,,,,N,,,0,404721852
+00F   ,bv32,"beroepsvaardigheden p6",,,,,,,,,N,,,0,410171023
+00F   ,bv41,,,,,,,,,,N,,,0,404721852
+00F   ,bv42,"beroepsvaardigheden 42",,,,,,,,,N,,,0,410171023
+00F   ,bv61,,,,,,,,,,N,,,0,402821650
+00F   ,bv62,,,,,,,,,,N,,,0,403741735
+00F   ,bv71,"Beroepsvaardigheden",,,,,,,,,N,,,0,404721852
+00F   ,bv72,,,,,,,,,,N,,,0,410171023
+00F   ,bv-lijn,,,,,,,,,,,,,0,410171030
+00F   ,bwd,"Basis Webdevelopment imd DT",,,,,,,,,N,,,0,406461243
+00F   ,bwv,"Basis Webdevelopment imd DT",,,,,,,,,N,,,0,406461243
+00F   ,c#,"C-Sharp",,,,,,,,,N,,,0,410171023
+00F   ,c2j31,"C#2 java",,,,,,,,,N,,,0,410171023
+00F   ,carcnt,,,,,,,,,,N,,,0,398431653
+00F   ,carcount,"fastlane traject",,,,,,,,,N,,,0,402821703
+00F   ,caroussel,,,,,,,,,,N,,,0,402061812
+00F   ,ce-team,,,,,,,,,,N,,,0,406461243
+00F   ,cg,"comp graphics",,,,,,,,,N,,,0,400991719
+00F   ,cg/vr,,,,,,,,,,N,,,0,400991719
+00F   ,CGI,"competentie gericht interview",,,,,,,,,,,,0,410171030
+00F   ,cgr,,,,,,,,,,N,,,0,406461243
+00F   ,cijferlijsten,,,,,,,,,,N,,,0,400991719
+00F   ,cmd1,,,,,,,,,,N,,,0,410171030
+00F   ,cmd2,,,,,,,,,,N,,,0,406461243
+00F   ,cmi,"workshop voor afstudeerders",,,,,,,,,N,,,0,409361735
+00F   ,cmp72,,,,,,,,,,N,,,0,410171023
+00F   ,cmpl72,"cross media plan m p14",,,,,,,,,N,,,0,407431401
+00F   ,co71,,,,,,,,,,N,,,0,406461243
+00F   ,co72,,,,,,,,,,N,,,0,406461243
+00F   ,com,"Communicatie MINOREN",,,,,,,,,,,,0,410171030
+00F   ,COM/HES,,,,,,,,,,N,,,0,400991720
+00F   ,com11,"Communicatie",,,,,,,,,N,,,0,406461243
+00F   ,com12,"Communicatie",,,,,,,,,N,,,0,406461243
+00F   ,com2,"communicatie",,,,,,,,,N,,,0,406461243
+00F   ,com21,"Communicatie",,,,,,,,,N,,,0,410171023
+00F   ,com21v,"communnicatie verkort",,,,,,,,,N,,,0,406461243
+00F   ,com22,"Communicatie",,,,,,,,,,,,0,410171030
+00F   ,com2v,"communnicatie verkort",,,,,,,,,N,,,0,404721852
+00F   ,com31,"Communicatie p5 conc. campagnes",,,,,,,,,N,,,0,406461243
+00F   ,com32,"Communicatie p6 semiotiek",,,,,,,,,N,,,0,407431401
+00F   ,com3f,"Communicatie 3 keuze",,,,,,,,,N,,,0,400991720
+00F   ,com41,"Communicatie 41",,,,,,,,,N,,,0,410171023
+00F   ,com42,"Communicatie 42",,,,,,,,,N,,,0,409361735
+00F   ,com4f,"Communicatie 4 keuze",,,,,,,,,N,,,0,400991720
+00F   ,com61,,,,,,,,,,N,,,0,406461243
+00F   ,com71,"Communicatie 71",,,,,,,,,N,,,0,409361735
+00F   ,comct,"Communicatie bij ct",,,,,,,,,N,,,0,400991720
+00F   ,comes,"Communicatie bij es",,,,,,,,,N,,,0,400991720
+00F   ,comhes,"Communicatie bij hes",,"TI",,,,,,,N,,,0,400991720
+00F   ,com-ia,"Communicatie bij ia",,,,,,,,,N,,,0,400991720
+00F   ,com-os,"Communicatie bij os",,,,,,,,,N,,,0,400991720
+00F   ,compmat,,,,,,,,,,N,,,0,402821650
+00F   ,com-sd,"Communicatie bij sd",,,,,,,,,N,,,0,400991720
+00F   ,COMSd,,,,,,,,,,N,,,0,400991720
+00F   ,COMSE,,,"TI",,,,,,,N,,,0,400991720
+00F   ,conferentie,,,,,,,,,,N,,,0,406461243
+00F   ,consult,"consultancy",,,,,,,,,N,,,0,406461243
+00F   ,coor,"coordinator bij tentamen",,,,,,,,,N,,,0,406461243
+00F   ,coor/res,"coordinator/reserve",,,,,,,,,,,,0,410171030
+00F   ,cp71,,,,,,,,,,N,,,0,406461243
+00F   ,cp72,,,,,,,,,,N,,,0,406461243
+00F   ,cpr,"C programmeren deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,cpr1,"C programmeren deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,cpr2,"C programmeren deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,cpr3,"C programmeren deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,cpr4,"C programmeren deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,cross cult,"cult workshop Ei",,,,,,,,,N,,,0,406461243
+00F   ,cry,"cryptologie",,,,,,,,,,,,0,410171030
+00F   ,csa,,,,,,,,,,N,,,0,410171023
+00F   ,ct42,"communication technology 42",,,,,,,,,,,,0,410171031
+00F   ,c-team bi,,,,,,,,,,N,,,0,406461243
+00F   ,c-team bimd,,,,,,,,,,N,,,0,406461243
+00F   ,c-team imd,,,,,,,,,,N,,,0,406461243
+00F   ,c-team S,,,,,,,,,,N,,,0,406461243
+00F   ,c-team ti,,,,,,,,,,N,,,0,406461243
+00F   ,c-team-ti,,,,,,,,,,N,,,0,406461243
+00F   ,CTI,,,,,,,,,,N,,,0,406461243
+00F   ,cursus,,,,,,,,,,,,,0,410171031
+00F   ,cyo game,,,,,,,,,,N,,,0,408061422
+00F   ,dab,,,,,,,,,,N,,,0,406461243
+00F   ,dami,,,,,,,,,,N,,,0,406461243
+00F   ,db,"databaseontwerp & bouw",,,,,,,,,N,,,0,406461243
+00F   ,db/so,"database syst. onderzoek",,,,,,,,,N,,,0,406461243
+00F   ,db12,"databases P2",,,,,,,,,,,,0,410171031
+00F   ,db72,,,,,,,,,,,,,0,410171031
+00F   ,dbg,"dashboarding",,,,,,,,,N,,,0,409361735
+00F   ,dbms,,,,,,,,,,N,,,0,407431402
+00F   ,dbs,"database systemen deeltijd",,,,,,,,,,,,0,410171031
+00F   ,dbs1,"database systemen deeltijd",,,,,,,,,,,,0,410171031
+00F   ,dbs12,"databases P2",,,,,,,,,N,,,0,409361735
+00F   ,dbs2,"database systemen deeltijd",,,,,,,,,,,,0,410171031
+00F   ,dbs21,"Databases p3",,,,,,,,,N,,,0,410171023
+00F   ,dbs21v,"Databases p3 verkort",,,,,,,,,N,,,0,410171023
+00F   ,dbs22,"databases P4",,,,,,,,,,,,0,410171031
+00F   ,dbs22v,"Databases p4 verkort",,,,,,,,,N,,,0,409361735
+00F   ,dbs3,"database systemen deeltijd",,,,,,,,,N,,,0,408481720
+00F   ,dbs4,"database systemen deeltijd",,,,,,,,,N,,,0,408481720
+00F   ,dcv,"dataconversie met xml",,,,,,,,,N,,,0,406461243
+00F   ,dcv-cons,"dataconversie met xml",,,,,,,,,N,,,0,406461243
+00F   ,deeltijd,,,,,,,,,,N,,,0,407781820
+00F   ,delta,,,,,,,,,,,,,0,410171031
+00F   ,delta's,,,,,,,,,,N,,,0,398431653
+00F   ,did,"didactiek",,,,,,,,,N,,,0,406461243
+00F   ,did2,"didactiek",,,,,,,,,N,,,0,406461243
+00F   ,didaktiek,,,,,,,,,,,,,0,410171031
+00F   ,DIF,"differentiatie",,,,,,,,,,,,0,410171031
+00F   ,DIG,"digitaal ontwerpen (dt)",,,,,,,,,N,,,0,407431402
+00F   ,DIG1,"digitaal ontwerpen 1 (dt)",,,,,,,,,N,,,0,406461243
+00F   ,DIG1/dte,"digitaal ontwerpen 1 (dt)",,,,,,,,,N,,,0,0
+00F   ,dig2,,,,,,,,,,N,,,0,406461243
+00F   ,DIG2/ids,"digitaal ontwerpen 2 (dt)",,,,,,,,,N,,,0,398431636
+00F   ,dig22,"digitaal ontwerpen P4",,,,,,,,,N,,,0,407431402
+00F   ,DIG3-tel,,,,,,,,,,N,,,0,402061815
+00F   ,DIG4-dso,,,,,,,,,,N,,,0,402061815
+00F   ,do-it,,,,,,,,,,N,,,0,402821650
+00F   ,drc,"cursus cit",,,,,,,,,N,,,0,400991722
+00F   ,ds/fpga,"digitale systemen/ fpga",,,,,,,,,N,,,0,402821650
+00F   ,dsbi,,,,,,,,,,N,,,0,403741738
+00F   ,dsn,"design cmd",,,,,,,,,,,,0,410171031
+00F   ,dsn12,"Design",,,,,,,,,N,,,0,406461243
+00F   ,dsn21,"design",,,,,,,,,N,,,0,410171023
+00F   ,dsn21v,"design verkort",,,,,,,,,N,,,0,406461243
+00F   ,dsn22,"Design",,,,,,,,,,,,0,410171032
+00F   ,dsn2v,,,,,,,,,,N,,,0,406461243
+00F   ,dsn31,"design p5",,,,,,,,,N,,,0,406461243
+00F   ,dsn32,"design p6 film & sound",,,,,,,,,N,,,0,407431402
+00F   ,dsn3f,"Design keuze",,,,,,,,,N,,,0,406461243
+00F   ,dsn41,"Design p7",,,,,,,,,N,,,0,402821650
+00F   ,dsn42,"Flash & animatie",,,,,,,,,N,,,0,409361735
+00F   ,dsn4f,"Design keuze",,,,,,,,,N,,,0,406461243
+00F   ,dsn62,"Design",,,,,,,,,N,,,0,406461243
+00F   ,dsn7,"Design m11,12",,,,,,,,,,,,0,410171032
+00F   ,dsn71,"Design",,,,,,,,,N,,,0,404721854
+00F   ,dsn72,,,,,,,,,,N,,,0,403741738
+00F   ,dsnict-ff,"DT traject flash fight",,,,,,,,,,,,0,410171032
+00F   ,dsnict-film,"DT traject flim",,,,,,,,,,,,0,410171032
+00F   ,dso,,,,,,,,,,N,,,0,406461243
+00F   ,dsp,"Digitale signaal processing",,,,,,,,,N,,,0,407431402
+00F   ,dsp2,"Digitale signaal processing",,,,,,,,,N,,,0,406461243
+00F   ,dsp31,"Digitale signaal processing",,,,,,,,,N,,,0,408481720
+00F   ,dtm,"datamining",,,,,,,,,N,,,0,409361735
+00F   ,dutch,"nederlands bijscholingvoor Ei",,,,,,,,,,,,0,410171032
+00F   ,dv32,"datavisualisatie32 mp6",,,,,,,,,,,,0,410171032
+00F   ,dwh,"Data warehouse",,,,,,,,,N,,,0,409361735
+00F   ,e&e,,,,,,,,,,N,,,0,406461243
+00F   ,e&r,"ethiek en recht",,,,,,,,,N,,,0,406461243
+00F   ,ea1,,,,,,,,,,N,,,0,406461243
+00F   ,ea2,,,,,,,,,,N,,,0,406461243
+00F   ,ea71,,,,,,,,,,N,,,0,410171023
+00F   ,eaa,"encryptie,autenticiteit,autorisatie",,,,,,,,,N,,,0,406461243
+00F   ,ebis,,,,,,,,,,N,,,0,406461243
+00F   ,ebis-to,,,,,,,,,,N,,,0,401091035
+00F   ,ebnb,,,,,,,,,,N,,,0,401091035
+00F   ,ebsb,,,,,,,,,,N,,,0,401091035
+00F   ,ebus,,,,,,,,,,N,,,0,408481720
+00F   ,ec11,"economie 11",,,,,,,,,N,,,0,406461243
+00F   ,ec12,"economie 12",,,,,,,,,N,,,0,406461243
+00F   ,ec21,"economie 21",,,,,,,,,N,,,0,406461243
+00F   ,ec22,"economie 22",,,,,,,,,N,,,0,406461243
+00F   ,ec41,"economie 41",,,,,,,,,N,,,0,406461243
+00F   ,ec42,"economie 42",,,,,,,,,N,,,0,406461243
+00F   ,eclipse,,,,,,,,,,,,,0,410171032
+00F   ,ecm61,"enterprise content management",,,,,,,,,N,,,0,407431402
+00F   ,ecm62,,,,,,,,,,N,,,0,407431402
+00F   ,ecom1,,,,,,,,,,N,,,0,407431402
+00F   ,ecws,"Eglish comm/writingskills",,,,,,,,,N,,,0,406461243
+00F   ,edb1,"databases eng. stream",,,,,,,,,N,,,0,410171023
+00F   ,edb2,"databases eng. stream",,,,,,,,,,,,0,410171032
+00F   ,edb3,"databases eng. stream",,,,,,,,,N,,,0,410171023
+00F   ,edb4,"databases eng. stream",,,,,,,,,,,,0,410171032
+00F   ,edp,"edp deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,edp a,,,,,,,,,,N,,,0,406461243
+00F   ,edp1,,,,,,,,,,N,,,0,409361735
+00F   ,edp2,,,,,,,,,,N,,,0,408481720
+00F   ,edp61,,,,,,,,,,N,,,0,406461243
+00F   ,edpa,,,,,,,,,,,,,0,410171032
+00F   ,edpa1,,,,,,,,,,,,,0,410171032
+00F   ,edpa2,,,,,,,,,,,,,0,410171032
+00F   ,edp-ip,,,,,,,,,,N,,,0,406461243
+00F   ,edp-to,,,,,,,,,,N,,,0,406461243
+00F   ,eds42,"embedded distributed systems 42",,,,,,,,,,,,0,410171032
+00F   ,ee21,"Electrical Engineering p3",,,,,,,,,N,,,0,410171023
+00F   ,eh31,"ethical hacking",,,,,,,,,N,,,0,406461243
+00F   ,ehns,"ethical hacking DT",,,,,,,,,,,,0,410171032
+00F   ,eja,,,,,,,,,,N,,,0,402061816
+00F   ,EL,"electronic learning",,,,,,,,,N,,,0,403741739
+00F   ,EL2,"electronic learning",,,,,,,,,N,,,0,401091036
+00F   ,el32,"embedded linux p6",,,,,,,,,N,,,0,409361735
+00F   ,EL7,,,,,,,,,,N,,,0,403741739
+00F   ,EL-to,"elec. learning",,,,,,,,,N,,,0,401091036
+00F   ,emb,"embedded systems deeltijd",,,,,,,,,,,,0,410171032
+00F   ,emb2,"embedded software 2",,,,,,,,,,,,0,410171032
+00F   ,engels,,,,,,,,,,N,,,0,406461243
+00F   ,er,"ethiek en recht",,,,,,,,,N,,,0,406461243
+00F   ,erp,"erp deeltijd",,,,,,,,,N,,,0,409361735
+00F   ,erp1,"erp/sap theorie",,,,,,,,,N,,,0,408481720
+00F   ,erp2,,,,,,,,,,N,,,0,409361735
+00F   ,ES,"embedded systems",,,,,,,,,N,,,0,406461243
+00F   ,es12,"embedded systems P2",,,,,,,,,,,,0,410171033
+00F   ,es22,"embedded systems P4",,,,,,,,,,,,0,410171033
+00F   ,es6,"embedded systems t11,12",,,,,,,,,,,,0,410171033
+00F   ,ES6,,,,,,,,,,N,,,0,403741740
+00F   ,es7,"embedded systems T7",,,,,,,,,N,,,0,406461243
+00F   ,ES-min,,,,,,,,,,N,,,0,409361735
+00F   ,ES-spec,"embedded systems",,,,,,,,,N,,,0,406461243
+00F   ,evaluatie,,,,,,,,,,N,,,0,406461243
+00F   ,exact,,,,,,,,,,N,,,0,406461243
+00F   ,exc21,"Excellence traject p3",,,,,,,,,N,,,0,410171023
+00F   ,exc22,"Excellence traject p4",,,,,,,,,,,,0,410171033
+00F   ,exc31,"wiskunde voor p5",,,,,,,,,N,,,0,410171023
+00F   ,exc32,"wiskunde voor p6",,,,,,,,,N,,,0,409361735
+00F   ,exc41,"wiskunde voor p7",,,,,,,,,N,,,0,406461243
+00F   ,exc42,"excelent",,,,,,,,,,,,0,410171033
+00F   ,excursie,,,,,,,,,,,,,0,410171033
+00F   ,expteam,,,,,,,,,,N,,,0,406461243
+00F   ,expteam S,,,,,,,,,,N,,,0,406461243
+00F   ,exs21,"Excellence traject p3",,,,,,,,,N,,,0,406461243
+00F   ,exs-cie,,,,,,,,,,N,,,0,410171700
+00F   ,extra,,,,,,,,,,N,,,0,403741740
+00F   ,e-zine,,,,,,,,,,N,,,0,406461243
+00F   ,FA/TSP,,,,,,,,,,,,,0,410171033
+00F   ,fastlane,,,,,,,,,,N,,,0,402061817
+00F   ,FF-film,"flash fight film",,,,,,,,,,,,0,410171033
+00F   ,fl62,,,,,,,,,,N,,,0,403741740
+00F   ,flash6,"flash lite m12",,,,,,,,,,,,0,410171034
+00F   ,Forscience,,,,,,,,,,N,,,0,407861821
+00F   ,foto-opdr,,,,,,,,,,N,,,0,398431638
+00F   ,fpga,"field prog gate array",,,,,,,,,N,,,0,406461243
+00F   ,fu7,,,,,,,,,,N,,,0,410171023
+00F   ,fu71,,,,,,,,,,N,,,0,404721855
+00F   ,fu72,,,,,,,,,,N,,,0,410171023
+00F   ,g3d32,"games & 3d Dif p6",,,,,,,,,N,,,0,406461243
+00F   ,g3d41,"games & 3d Dif p7",,,,,,,,,N,,,0,410171023
+00F   ,g3d42,"GD games 3d",,,,,,,,,,,,0,410171034
+00F   ,gai71,,,,,,,,,,N,,,0,408481720
+00F   ,game,"workshop voorlichting",,,,,,,,,,,,0,410171034
+00F   ,game i/t city,,,,,,,,,,N,,,0,410171023
+00F   ,gastles,,,,,,,,,,,,,0,410171034
+00F   ,gb31,"basics dif p5",,,,,,,,,N,,,0,406461243
+00F   ,gb32,"game design basics Dif p6",,,,,,,,,N,,,0,409361735
+00F   ,gb41,"basics dif p7",,,,,,,,,N,,,0,406461243
+00F   ,gb42,"GD Basics",,,,,,,,,,,,0,410171034
+00F   ,gb62,"GD Basics",,,,,,,,,N,,,0,409361735
+00F   ,gb72,"GD Basics",,,,,,,,,N,,,0,409361735
+00F   ,gba,,,,,,,,,,N,,,0,410171023
+00F   ,gbi,,,,,,,,,,N,,,0,410171023
+00F   ,gcd32,"GD character design",,,,,,,,,N,,,0,406461243
+00F   ,gcd42,"GD conceptual design",,,,,,,,,N,,,0,406461243
+00F   ,gcw32,,,,,,,,,,N,,,0,406461243
+00F   ,gd,,,,,,,,,,,,,0,410171034
+00F   ,gd3,"integratie minor Gd blok4",,,,,,,,,N,,,0,406461243
+00F   ,GD-aut,,,,,,,,,,N,,,0,410171023
+00F   ,GD-BS,,,,,,,,,,N,,,0,406461243
+00F   ,gdc62,,,,,,,,,,N,,,0,409361735
+00F   ,gddi31,"games & didactiek",,,,,,,,,N,,,0,406461243
+00F   ,gdgd31,,,,,,,,,,N,,,0,406461243
+00F   ,gdgm31,"game maker",,,,,,,,,N,,,0,406461243
+00F   ,gdi31,"games & didactiek dif p5",,,,,,,,,N,,,0,406461243
+00F   ,gdi32,"GD didactiek & interactie",,,,,,,,,N,,,0,406461243
+00F   ,GDlector,,,,,,,,,,N,,,0,406461243
+00F   ,gd-proj,"game design project",,,,,,,,,N,,,0,406461243
+00F   ,gds,"gedistribueerde systemen",,,,,,,,,N,,,0,409361747
+00F   ,gd-team,,,,,,,,,,N,,,0,406461243
+00F   ,gd-to,,,,,,,,,,N,,,0,406461243
+00F   ,gdt-team,,,,,,,,,,N,,,0,406461243
+00F   ,gdvd31,"games & virtual design dif p5",,,,,,,,,N,,,0,406461243
+00F   ,gdw31,"workshop game design",,,,,,,,,N,,,0,408481720
+00F   ,gdw42,,,,,,,,,,N,,,0,406461243
+00F   ,GD-ZO,"Cursus cit",,,,,,,,,N,,,0,406461243
+00F   ,gereserveerd,,,,,,,,,,N,,,0,403741741
+00F   ,ggm31,"game maker dif p5",,,,,,,,,N,,,0,406461243
+00F   ,ggm32,"game maker Dif p6",,,,,,,,,N,,,0,406461243
+00F   ,gi,"Games industrie minor Gd blok4",,,,,,,,,N,,,0,406461243
+00F   ,gin61,,,,,,,,,,N,,,0,408481720
+00F   ,gld41,"Games level design p7",,,,,,,,,N,,,0,406461243
+00F   ,gld71,"Games level design p13",,,,,,,,,N,,,0,408481720
+00F   ,gld72,"Games level design p14",,,,,,,,,N,,,0,407412324
+00F   ,glos,"wrkshop voorlichting",,,,,,,,,,,,0,410171034
+00F   ,gm2,"gaming2",,,,,,,,,N,,,0,406461243
+00F   ,gnr31,"games & narrativiteit dif p5",,,,,,,,,N,,,0,406461243
+00F   ,gnr32,"games & narrativiteit Dif p6",,,,,,,,,N,,,0,406461243
+00F   ,GOC,,,,,,,,,,N,,,0,410171023
+00F   ,gp,"Games project minor Gd blok4",,,,,,,,,N,,,0,406461243
+00F   ,gpk,"groepsprojecten kernfase ei",,,,,,,,,N,,,0,406461243
+00F   ,gpt31,"game project dif p5",,,,,,,,,N,,,0,408481720
+00F   ,gpt32,"games project  Dif p6",,,,,,,,,N,,,0,409361735
+00F   ,gpt41,"games project  Dif p7",,,,,,,,,N,,,0,410171023
+00F   ,gpt42,"games project  Dif p8",,,,,,,,,,,,0,410171034
+00F   ,gpt61,"games project  Dif p11",,,,,,,,,N,,,0,408481720
+00F   ,gpt62,"games project  Dif p12",,,,,,,,,N,,,0,409361735
+00F   ,gpt71,"games project  Dif p13",,,,,,,,,N,,,0,408481728
+00F   ,gpt72,"games project  Dif p14",,,,,,,,,N,,,0,409361735
+00F   ,grad,"graduation project",,,,,,,,,N,,,0,408481720
+00F   ,gsd31,"sound dif p5",,,,,,,,,N,,,0,408481720
+00F   ,gsd32,"GD sound design p6",,,,,,,,,N,,,0,409361735
+00F   ,gsd42,"GD sound design p8",,,,,,,,,N,,,0,407412325
+00F   ,gso31,"Gedistribueerde syst.ontwikkeling p5",,,,,,,,,N,,,0,410171023
+00F   ,gso32,"Gedistribueerde syst.ontwikkeling p6",,,,,,,,,,,,0,410171035
+00F   ,gst32,"games & storytelling Dif p6",,,,,,,,,N,,,0,406461243
+00F   ,gsw,"Gedistribueerde software DT",,,,,,,,,,,,0,410171035
+00F   ,gtb,,,,,,,,,,N,,,0,406461243
+00F   ,gto31,,,,,,,,,,N,,,0,408481720
+00F   ,gto32,,,,,,,,,,N,,,0,409361735
+00F   ,gto41,,,,,,,,,,N,,,0,410171023
+00F   ,gto42,,,,,,,,,,,,,0,410171035
+00F   ,gto61,,,,,,,,,,N,,,0,408481720
+00F   ,gto62,,,,,,,,,,N,,,0,409361735
+00F   ,gto71,,,,,,,,,,N,,,0,408481720
+00F   ,gto72,,,,,,,,,,N,,,0,409361735
+00F   ,gue41,"games unreal editor p7",,,,,,,,,N,,,0,406461243
+00F   ,gue42,"GD unreal editor p8",,,,,,,,,N,,,0,406461243
+00F   ,gvi31,"games visual p5",,,,,,,,,N,,,0,406461243
+00F   ,hbo-ict-i,,,,,,,,,,N,,,0,406461243
+00F   ,hdm,"hdm deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,hdm1,"hdm deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,hdm2,"hdm deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,hdm3,"hdm deeltijd",,,,,,,,,N,,,0,407412326
+00F   ,hdm4,"hdm deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,hes31,,,,,,,,,,N,,,0,406461243
+00F   ,hp31,,,,,,,,,,N,,,0,406461243
+00F   ,hsi1,"hard- software interfacing DT",,,,,,,,,,,,0,410171035
+00F   ,hsi2,"hard- software interfacing DT",,,,,,,,,N,,,0,409361735
+00F   ,html,"html/css cursus(cit)",,,,,,,,,,,,0,410171035
+00F   ,hwi31,"Hardware interfacing",,,,,,,,,N,,,0,408481720
+00F   ,IA/rob,,,,,,,,,,N,,,0,406461243
+00F   ,IA7,"industriele automatisering",,,,,,,,,N,,,0,406461243
+00F   ,ib,,,,,,,,,,,,,0,410171035
+00F   ,ibb,"inl.bedrijfskunde/ec dt",,,,,,,,,N,,,0,409361735
+00F   ,ibb42,,,,,,,,,,N,,,0,406461243
+00F   ,ibe,,,,,,,,,,N,,,0,406461243
+00F   ,iBO,,,,,,,,,,,,,0,410171035
+00F   ,ibp,,,,,,,,,,N,,,0,406461243
+00F   ,icb21,"ict voor B  p3",,,,,,,,,N,,,0,410171023
+00F   ,icb22,"ict voor B  p4",,,,,,,,,,,,0,410171035
+00F   ,icb31,"ict voor B  p5",,,,,,,,,N,,,0,410171023
+00F   ,icb32,"ict voor B  p6",,,,,,,,,,,,0,410171035
+00F   ,icb41,"ict voor B  p7",,,,,,,,,N,,,0,410171036
+00F   ,icb42,"ict voor B  p8",,,,,,,,,,,,0,410171036
+00F   ,icm,,,,,,,,,,N,,,0,406461243
+00F   ,icm31,"php, my sql M p5",,,,,,,,,N,,,0,406461243
+00F   ,icm32,"ict voor m p6",,,,,,,,,N,,,0,407431403
+00F   ,icm42,"ict voor M p8",,,,,,,,,N,,,0,409361735
+00F   ,icps,,,,,,,,,,N,,,0,406461243
+00F   ,ics,"inleiding comp. syst.",,,,,,,,,,,,0,410171036
+00F   ,ict,"ict voor dt+cmd",,,,,,,,,,,,0,410171036
+00F   ,ict1,"Webdevelopment 1",,,,,,,,,N,,,0,406461243
+00F   ,ict11,"Webdevelopment 1",,,,,,,,,N,,,0,406461243
+00F   ,ict12,,,,,,,,,,N,,,0,406461243
+00F   ,ict21,,,,,,,,,,N,,,0,406461243
+00F   ,ict21/12,,,,,,,,,,N,,,0,406461243
+00F   ,ict21v,"ict verkort",,,,,,,,,N,,,0,406461243
+00F   ,ict22,,,,,,,,,,N,,,0,406461243
+00F   ,ict22v,"ict verkort",,,,,,,,,N,,,0,406461243
+00F   ,ict2v,,,,,,,,,,N,,,0,406461243
+00F   ,ict31,"php, my sql M p5",,,,,,,,,N,,,0,407431403
+00F   ,ict31b,"gestructureerd programmeren p5",,,,,,,,,N,,,0,406461243
+00F   ,ict32,,,,,,,,,,N,,,0,407431403
+00F   ,ict32b,"Gestructureerd prog. p6",,,,,,,,,N,,,0,406461243
+00F   ,ict3f,"ict keuze",,,,,,,,,N,,,0,406461243
+00F   ,ict41,"ict voor B p7",,,,,,,,,N,,,0,408481720
+00F   ,ict42,"ict voor B p8",,,,,,,,,N,,,0,409361735
+00F   ,ict4f,"ict keuze",,,,,,,,,N,,,0,406461243
+00F   ,ict6,,,,,,,,,,N,,,0,406461243
+00F   ,ict61,,,,,,,,,,N,,,0,406461243
+00F   ,ict62,,,,,,,,,,N,,,0,406461243
+00F   ,ict7,"papervision m11,12",,,,,,,,,,,,0,410171036
+00F   ,ict71,,,,,,,,,,N,,,0,404721857
+00F   ,ict72,,,,,,,,,,N,,,0,410171023
+00F   ,ictd,,,,,,,,,,N,,,0,403741741
+00F   ,ide,,,,,,,,,,,,,0,410171036
+00F   ,idi,"ict dienstverlening DT",,,,,,,,,,,,0,410171036
+00F   ,ids,,,,,,,,,,N,,,0,406461243
+00F   ,IE / CE,,,,,,,,,,,,,0,410171036
+00F   ,ieh31,"ethical hacking",,,,,,,,,,,,0,410171036
+00F   ,ies,,,,,,,,,,N,,,0,406461243
+00F   ,Ifo62,,,,,,,,,,N,,,0,409361735
+00F   ,ig62,"info graphics m11,12",,,,,,,,,,,,0,410171036
+00F   ,iib42,"ims informatiebeveiliging",,,,,,,,,,,,0,410171036
+00F   ,iio,,,,,,,,,,N,,,0,403741741
+00F   ,iis61,,,,,,,,,,N,,,0,408481720
+00F   ,im1,"implementatie1",,,,,,,,,N,,,0,406461243
+00F   ,im2,"implementatie2",,,,,,,,,N,,,0,406461243
+00F   ,im2-cons,"implementatie2",,,,,,,,,N,,,0,403741741
+00F   ,iman,,,,,,,,,,N,,,0,406461243
+00F   ,imar,,,,,,,,,,N,,,0,407431403
+00F   ,imb32,"ims beheer dif p6",,,,,,,,,N,,,0,406461243
+00F   ,imceh31,"ims p5  ethical hacking",,,,,,,,,N,,,0,406461243
+00F   ,imd-ontw,,,,,,,,,,N,,,0,403741741
+00F   ,imd-team,,,,,,,,,,N,,,0,406461243
+00F   ,imeh32,"ims ethical hacking p6",,,,,,,,,N,,,0,406461243
+00F   ,imo,,,,,,,,,,N,,,0,403741741
+00F   ,imo61,,,,,,,,,,N,,,0,408481720
+00F   ,impb32,"ims proftaak beheer dif p6",,,,,,,,,N,,,0,406461243
+00F   ,impl1,,,,,,,,,,N,,,0,406461243
+00F   ,impl2,,,,,,,,,,N,,,0,406461243
+00F   ,impt32,"ims proftaak p6",,,,,,,,,N,,,0,406461243
+00F   ,impteh31,"ims proftaak p5 ethical hacking",,,,,,,,,N,,,0,406461243
+00F   ,imr,"inst. medezeggenschapsraad",,,,,,,,,,,,0,410171037
+00F   ,ims,,,,,,,,,,N,,,0,409361735
+00F   ,ims-team,,,,,,,,,,N,,,0,406461243
+00F   ,in21,"Infrastructuur p3",,,,,,,,,N,,,0,410171023
+00F   ,in22,"Infrastructuur p4",,,,,,,,,,,,0,410171037
+00F   ,inb41,,,,,,,,,,N,,,0,410171023
+00F   ,indesign,,,,,,,,,,N,,,0,404721858
+00F   ,inf.syst.,,,,,,,,,,N,,,0,404721858
+00F   ,info,,,,,,,,,,,,,0,410171037
+00F   ,info graph,,,,,,,,,,N,,,0,403741741
+00F   ,ingr6,"info graphic6  mp12",,,,,,,,,N,,,0,409361735
+00F   ,inno GDT,,,,,,,,,,N,,,0,406461243
+00F   ,inno IMS,,,,,,,,,,N,,,0,406461243
+00F   ,inno LS,,,,,,,,,,N,,,0,406461243
+00F   ,inno MC,,,,,,,,,,N,,,0,406461243
+00F   ,intake,"p1 intakegesprekken",,,,,,,,,N,,,0,409361735
+00F   ,intervisie,,,,,,,,,,,,,0,410171037
+00F   ,intro,,,,,,,,,,N,,,0,410171023
+00F   ,iob,"interactieontwerp & -bouw",,,,,,,,,N,,,0,406461243
+00F   ,iot,"input output technieken",,,,,,,,,N,,,0,407431403
+00F   ,i-overleg,,,,,,,,,,N,,,0,406461243
+00F   ,ip12,"integraal project",,,,,,,,,N,,,0,403741741
+00F   ,ip21,"integraal project",,,,,,,,,N,,,0,403741741
+00F   ,ip22,"integraal project",,,,,,,,,N,,,0,403741741
+00F   ,ip2v,,,,,,,,,,N,,,0,403741741
+00F   ,ip31,"integraal project",,,,,,,,,N,,,0,403741741
+00F   ,ip32,"integraal project",,,,,,,,,N,,,0,403741741
+00F   ,ip41,"integraal project",,,,,,,,,N,,,0,403741741
+00F   ,ip42,"integraal project",,,,,,,,,N,,,0,403741741
+00F   ,ip6,"integraal project",,,,,,,,,N,,,0,403741741
+00F   ,ip61,,,,,,,,,,N,,,0,403741741
+00F   ,ip62,"integraal project",,,,,,,,,N,,,0,403741741
+00F   ,ip71,"integraal project",,,,,,,,,N,,,0,403741741
+00F   ,ip72,"integraal project",,,,,,,,,N,,,0,403741741
+00F   ,ipb32,"ims proftaak beheer dif p6",,,,,,,,,N,,,0,410171023
+00F   ,ipc,"ipc",,,,,,,,,N,,,0,406461243
+00F   ,ipc32,"interproces communicatie p6",,,,,,,,,N,,,0,409361735
+00F   ,ipd,"ipd",,,,,,,,,N,,,0,406461243
+00F   ,ip-LOGO,,,,,,,,,,N,,,0,403741741
+00F   ,ipt31,"proftaak ethical hacking",,,,,,,,,,,,0,410171037
+00F   ,ipt32,"proftaak ethical hacking",,,,,,,,,N,,,0,410171023
+00F   ,ipt41,"proftaak netwerkbev. ims p7",,,,,,,,,N,,,0,408481720
+00F   ,ipt42,"ims proftaak",,,,,,,,,,,,0,410171037
+00F   ,ipt61,"ims proftaak",,,,,,,,,N,,,0,408481720
+00F   ,ipt62,"ims proftaak",,,,,,,,,N,,,0,409361735
+00F   ,ipt71,,,,,,,,,,N,,,0,408481720
+00F   ,ipt72,,,,,,,,,,N,,,0,409361735
+00F   ,isa,"isa deeltijd",,,,,,,,,,,,0,410171037
+00F   ,isa1,"isa deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,isa2,"isa deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,isa3,"isa deeltijd",,,,,,,,,,,,0,410171037
+00F   ,isa4,"isa deeltijd",,,,,,,,,,,,0,410171037
+00F   ,ISA4,"isa deeltijd",,,,,,,,,N,,,0,403741741
+00F   ,ism71,,,,,,,,,,N,,,0,409361735
+00F   ,ism72,,,,,,,,,,N,,,0,409361735
+00F   ,iso,"inl. syst. ontwikkeling",,,,,,,,,,,,0,410171037
+00F   ,isom,,,,,,,,,,N,,,0,406461243
+00F   ,it,"internettechologie",,,,,,,,,N,,,0,406461243
+00F   ,ita2,,,,,,,,,,,,,0,410171037
+00F   ,ita61,,,,,,,,,,N,,,0,407431404
+00F   ,ita62,,,,,,,,,,N,,,0,407431404
+00F   ,ita-edp,,,,,,,,,,N,,,0,406461243
+00F   ,ite,,,,,,,,,,N,,,0,410171023
+00F   ,ith71,,,,,,,,,,N,,,0,408481720
+00F   ,ith72,,,,,,,,,,N,,,0,406461243
+00F   ,itil,,,,,,,,,,,,,0,410171038
+00F   ,itil1,"itil1",,,,,,,,,N,,,0,406461243
+00F   ,itil1-apollo,"apollogame",,,,,,,,,N,,,0,406461243
+00F   ,itil2,"itil2",,,,,,,,,N,,,0,406461243
+00F   ,itp71,,,,,,,,,,N,,,0,406461243
+00F   ,itp72,,,,,,,,,,N,,,0,409361735
+00F   ,itsec,"secrurity",,,,,,,,,N,,,0,406461243
+00F   ,itsec-beg,"secrurity",,,,,,,,,N,,,0,406461243
+00F   ,itsec-pw,"secrurity",,,,,,,,,N,,,0,406461243
+00F   ,itsm,,,,,,,,,,,,,0,410171038
+00F   ,itsm1,"it service management DT",,,,,,,,,,,,0,410171038
+00F   ,itsm2,,,,,,,,,,,,,0,410171038
+00F   ,itsm3,,,,,,,,,,,,,0,410171038
+00F   ,itsm-cons,,,,,,,,,,N,,,0,406461243
+00F   ,itsm-opd,,,,,,,,,,N,,,0,406461243
+00F   ,itsm-proc,,,,,,,,,,N,,,0,406461243
+00F   ,itsm-pw,,,,,,,,,,N,,,0,406461243
+00F   ,itsTime,,,,,,,,,,N,,,0,407431404
+00F   ,ivar,"informatie- & veranderingsanalyse",,,,,,,,,N,,,0,406461243
+00F   ,iwp,"inl. webprogrammeren",,,,,,,,,N,,,0,409361735
+00F   ,java,,,,,,,,,,,,,0,410171038
+00F   ,jcf41,,,,,,,,,,N,,,0,410171023
+00F   ,jea61,,,,,,,,,,,,,0,410171038
+00F   ,jea62,,,,,,,,,,,,,0,410171038
+00F   ,jsf31,,,,,,,,,,N,,,0,410141418
+00F   ,jsf32,,,,,,,,,,,,,0,410171038
+00F   ,k-assess,,,,,,,,,,,,,0,410171038
+00F   ,kernteam,,,,,,,,,,N,,,0,406461243
+00F   ,kernteam B,,,,,,,,,,N,,,0,406461243
+00F   ,kernteam GD,,,,,,,,,,N,,,0,406461243
+00F   ,kernteam M,,,,,,,,,,N,,,0,406461243
+00F   ,kernteam PR,,,,,,,,,,N,,,0,406461243
+00F   ,kernteam S,,,,,,,,,,N,,,0,406461243
+00F   ,kernteam T,,,,,,,,,,N,,,0,406461243
+00F   ,kick off,,,,,,,,,,,,,0,410171038
+00F   ,kidp,"multimedia bijeenkomst",,,,,,,,,N,,,0,410171023
+00F   ,kwt12,"wiskunde bi",,,,,,,,,N,,,0,406461243
+00F   ,kwt21,"wiskunde bi",,,,,,,,,N,,,0,406461243
+00F   ,kwt22,"wiskunde bi",,,,,,,,,N,,,0,406461243
+00F   ,lan,"local area networks",,,,,,,,,N,,,0,406461243
+00F   ,lan-p,"local area networks p-fase",,,,,,,,,N,,,0,406461243
+00F   ,lanp-con bk,"local area networks bk",,,,,,,,,N,,,0,406461243
+00F   ,lanp-con cs,"local area networks cs",,,,,,,,,N,,,0,406461243
+00F   ,lanp-proc,"local area networks procbeg.",,,,,,,,,N,,,0,406461243
+00F   ,lanp-pw,"local area networks proj",,,,,,,,,N,,,0,406461243
+00F   ,ld,,,,,,,,,,N,,,0,406461243
+00F   ,lectoraat,,,,,,,,,,N,,,0,409361735
+00F   ,lezing,,,,,,,,,,N,,,0,409361735
+00F   ,lifestyle,,,,,,,,,,N,,,0,406461243
+00F   ,live perf,"live performance (p-fase)",,,,,,,,,,,,0,410171039
+00F   ,llp,"low levell programming",,,,,,,,,N,,,0,406461243
+00F   ,log,"logistiek",,,,,,,,,N,,,0,406461243
+00F   ,lpt41,,,,,,,,,,N,,,0,403741741
+00F   ,lpt42,,,,,,,,,,N,,,0,403741741
+00F   ,lsa41,"lifestyle techniek p7",,,,,,,,,N,,,0,406461243
+00F   ,lsa42,"lifestyle techniek p8",,,,,,,,,,,,0,410171039
+00F   ,lsbc61,,,,,,,,,,N,,,0,406461243
+00F   ,lsbK62,,,,,,,,,,N,,,0,407431405
+00F   ,lsco71,"concepting",,,,,,,,,N,,,0,408481720
+00F   ,lscp7,,,,,,,,,,N,,,0,409361735
+00F   ,lscs7,,,,,,,,,,N,,,0,409361735
+00F   ,lsed61,,,,,,,,,,N,,,0,406461243
+00F   ,lsed71,"experience design",,,,,,,,,N,,,0,408481720
+00F   ,lsmt31,"methoden & technieken",,,,,,,,,N,,,0,409361735
+00F   ,lsmt32,,,,,,,,,,N,,,0,407431405
+00F   ,lson61,,,,,,,,,,N,,,0,406461243
+00F   ,lspr31,"lifestyle p5 prototyping",,,,,,,,,N,,,0,406461243
+00F   ,lspr32,"lifestyle p6",,,,,,,,,N,,,0,406461243
+00F   ,lspt,,,,,,,,,,N,,,0,409361735
+00F   ,lspt31,"lifestyle p5 proftaak",,,,,,,,,N,,,0,409361735
+00F   ,lspt32,"lifestyle p6 proftaak",,,,,,,,,N,,,0,406461243
+00F   ,lspt41,"lifestyle proftaak p7",,,,,,,,,,,,0,410171039
+00F   ,lspt42,"lifestyle proftaak p8",,,,,,,,,N,,,0,407431405
+00F   ,lspt61,,,,,,,,,,N,,,0,408481720
+00F   ,lssi31,"lifestyle p5 innovation",,,,,,,,,N,,,0,409361735
+00F   ,lssi32,"lifestyle p6",,,,,,,,,N,,,0,408481732
+00F   ,lssm,,,,,,,,,,N,,,0,410171023
+00F   ,lste31,"techniek & prototyping  tools",,,,,,,,,N,,,0,409361908
+00F   ,lste41,,,,,,,,,,N,,,0,410171023
+00F   ,lste61,,,,,,,,,,N,,,0,407431405
+00F   ,lste71,"technology wireless sensor networks",,,,,,,,,N,,,0,408481720
+00F   ,lste72,,,,,,,,,,N,,,0,406461243
+00F   ,LSTH,"lifestyle p8",,,,,,,,,N,,,0,406461243
+00F   ,lsth41,"ict &lifestyle th p7",,,,,,,,,N,,,0,410171023
+00F   ,lsth42,"ict &lifestyle th p8",,,,,,,,,,,,0,410171039
+00F   ,lstu31,"lifestyle p5",,,,,,,,,N,,,0,406461243
+00F   ,lstu32,"lifestyle p6",,,,,,,,,N,,,0,406461243
+00F   ,lth41,,,,,,,,,,N,,,0,406461243
+00F   ,lth42,,,,,,,,,,N,,,0,406461243
+00F   ,lunch,,,,,,,,,,,,,0,410171039
+00F   ,m2v,,,,,,,,,,N,,,0,406461243
+00F   ,maatwerk,,,,,,,,,,N,,,0,408481720
+00F   ,man,"cic-hoofdfase",,,,,,,,,N,,,0,403741741
+00F   ,man game,"management game ei",,,,,,,,,N,,,0,406461243
+00F   ,math1,"wiskunde Ei",,,,,,,,,N,,,0,410171023
+00F   ,math2,"wiskunde Ei",,,,,,,,,,,,0,410171039
+00F   ,math3,"wiskunde Ei",,,,,,,,,N,,,0,410171023
+00F   ,math4,"wiskunde Ei",,,,,,,,,N,,,0,409361735
+00F   ,mb32,"mob. comp. bedrijfskunde p6",,,,,,,,,N,,,0,406461243
+00F   ,mbk42,"mob. com. bedrijfskunde p8",,,,,,,,,N,,,0,406461243
+00F   ,mcan6,,,,,,,,,,N,,,0,406461243
+00F   ,mcbk32,,,,,,,,,,N,,,0,406461243
+00F   ,mcbk42,,,,,,,,,,N,,,0,406461243
+00F   ,mcbk6,,,,,,,,,,N,,,0,406461243
+00F   ,M-cetl,,,,,,,,,,N,,,0,406461243
+00F   ,mcin31,"infrastructuur mob. comp",,,,,,,,,N,,,0,406461243
+00F   ,mcin6,,,,,,,,,,N,,,0,406461243
+00F   ,mcin71,,,,,,,,,,N,,,0,406461243
+00F   ,mcin72,,,,,,,,,,N,,,0,406461243
+00F   ,mcja41,,,,,,,,,,N,,,0,406461243
+00F   ,mcja42,,,,,,,,,,N,,,0,406461243
+00F   ,mcon42,,,,,,,,,,N,,,0,406461243
+00F   ,mcond31,,,,,,,,,,N,,,0,406461243
+00F   ,mcond32,,,,,,,,,,N,,,0,406461243
+00F   ,mcpt31,"proftaak mob.computing",,,,,,,,,N,,,0,406461243
+00F   ,mcpt32,,,,,,,,,,N,,,0,406461243
+00F   ,mcpt41,,,,,,,,,,N,,,0,406461243
+00F   ,mcpt42,,,,,,,,,,N,,,0,406461243
+00F   ,mcui41,,,,,,,,,,N,,,0,406461243
+00F   ,mcwm31,"windows mobile",,,,,,,,,N,,,0,406461243
+00F   ,mcwm32,,,,,,,,,,N,,,0,406461243
+00F   ,mdd,,,,,,,,,,N,,,0,403741741
+00F   ,mdd6,,,,,,,,,,,,,0,410171039
+00F   ,mdw,,,,,,,,,,,,,0,410171039
+00F   ,mech,"mechatronica",,,,,,,,,N,,,0,403741741
+00F   ,min31,"mob. comp. p5 infrastructuur",,,,,,,,,N,,,0,406461243
+00F   ,minor,"externe minor",,,,,,,,,N,,,0,409361735
+00F   ,minor.vl.,,,,,,,,,,,,,0,410171039
+00F   ,mja41,"mob. com. java p7",,,,,,,,,N,,,0,406461243
+00F   ,mja42,"mob. com. java & j2me p8",,,,,,,,,N,,,0,406461243
+00F   ,mm31,"moving media design m5",,,,,,,,,N,,,0,410171023
+00F   ,MNT,,,,,,,,,,N,,,0,410171023
+00F   ,MO,,,,,,,,,,,,,0,410171040
+00F   ,mob.comp,,,,,,,,,,N,,,0,410171023
+00F   ,mobgames,,,,,,,,,,N,,,0,403741741
+00F   ,mon32,"mob.comp. onderzoek p6",,,,,,,,,N,,,0,406461243
+00F   ,mon42,"mob. com. onderzoek p8",,,,,,,,,N,,,0,406461243
+00F   ,mps6,,,,,,,,,,,,,0,410171040
+00F   ,mps70,"mediapsychologie m p14",,,,,,,,,N,,,0,407431405
+00F   ,mpt31,"mob.comp. proftaak p5",,,,,,,,,N,,,0,406461243
+00F   ,mpt32,"mob.comp proftaak p6",,,,,,,,,N,,,0,406461243
+00F   ,mpt41,"mob. com. proftaak p7",,,,,,,,,N,,,0,406461243
+00F   ,mpt42,"mob. com. proftaak p8",,,,,,,,,N,,,0,406461243
+00F   ,mt,"multithreading",,,,,,,,,,,,0,410171040
+00F   ,mt6,,,,,,,,,,N,,,0,406461243
+00F   ,mui41,"mob. com. user interface design p7",,,,,,,,,N,,,0,406461243
+00F   ,mul,,,,,,,,,,N,,,0,408481720
+00F   ,mwm31,"mob. comp. p5 windows mobile",,,,,,,,,N,,,0,406461243
+00F   ,nao,"netwerk ontwerp & arch DT",,,,,,,,,,,,0,410171040
+00F   ,nar1,"Narrativiteit 1 minor Gd blok3",,,,,,,,,N,,,0,406461243
+00F   ,nar2,"Narrativiteit 2 minor Gd blok4",,,,,,,,,N,,,0,406461243
+00F   ,nbh,"netwerkbeheer deeltijd",,,,,,,,,,,,0,410171040
+00F   ,nbh1,"netwerkbeheer deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,nbh2,"netwerkbeheer deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,nbh3,"netwerkbeheer deeltijd",,,,,,,,,,,,0,410171040
+00F   ,nbh4,"netwerkbeheer deeltijd",,,,,,,,,,,,0,410171040
+00F   ,nbm6,"nw business models m11,12",,,,,,,,,N,,,0,410171023
+00F   ,net,"netwerken",,,,,,,,,,,,0,410171040
+00F   ,nt21,"in21 voor t3",,,,,,,,,N,,,0,410171023
+00F   ,oa,"onderhandelen en adviseren",,,,,,,,,N,,,0,406461243
+00F   ,oa61,,,,,,,,,,N,,,0,406461243
+00F   ,oc i,,,,,,,,,,N,,,0,406461243
+00F   ,oib,"orientatie ict & business",,,,,,,,,N,,,0,410171023
+00F   ,oimc,"orientatie ict & communicatie",,,,,,,,,N,,,0,410171023
+00F   ,oimd,"orientatie ict & design",,,,,,,,,N,,,0,410171023
+00F   ,ois,"orientatie ict & softw.engineering",,,,,,,,,N,,,0,410171023
+00F   ,oit,"orientatie ict & technologie",,,,,,,,,N,,,0,410171023
+00F   ,om,,,,,,,,,,N,,,0,406461243
+00F   ,omGD,,,,,,,,,,N,,,0,406461243
+00F   ,Ond,,,,,,,,,,N,,,0,406461243
+00F   ,ond6,"Beroepsvaardigheden p11,12",,,,,,,,,,,,0,410171040
+00F   ,Onderhoud,,,,,,,,,,,,,0,410171040
+00F   ,OndO,,,,,,,,,,N,,,0,406461243
+00F   ,Ontw M,,,,,,,,,,N,,,0,406791629
+00F   ,Ontw MGD,,,,,,,,,,N,,,0,406461243
+00F   ,Ontw MLS,,,,,,,,,,N,,,0,406461243
+00F   ,Ontw Mmc,,,,,,,,,,N,,,0,406461243
+00F   ,Ontw Msec,,,,,,,,,,N,,,0,406461243
+00F   ,Ontw p4,,,,,,,,,,N,,,0,406461243
+00F   ,Ontw p8,,,,,,,,,,N,,,0,406461243
+00F   ,ontw.gd,,,,,,,,,,N,,,0,406461243
+00F   ,Ontwikk,,,,,,,,,,N,,,0,406461243
+00F   ,OntwO,,,,,,,,,,N,,,0,406461243
+00F   ,ood1,"object oriented design",,,,,,,,,N,,,0,410171023
+00F   ,ood2,,,,,,,,,,,,,0,410171040
+00F   ,ooes-p,,,,,,,,,,N,,,0,406461243
+00F   ,ooes-t,,,,,,,,,,N,,,0,406461243
+00F   ,oola,,,,,,,,,,N,,,0,406461243
+00F   ,oop,"obj. georienteerd prog. DT",,,,,,,,,,,,0,410171040
+00F   ,OOV,,,,,,,,,,N,,,0,403741741
+00F   ,opstart,,,,,,,,,,,,,0,410171040
+00F   ,optical,,,,,,,,,,N,,,0,406461243
+00F   ,org.,,,,,,,,,,N,,,0,406461243
+00F   ,org1,"organisatiekunde 1",,,,,,,,,N,,,0,408481720
+00F   ,org71,,,,,,,,,,N,,,0,406461243
+00F   ,ori-a,,,,,,,,,,N,,,0,406461243
+00F   ,ori-b,,,,,,,,,,N,,,0,406461243
+00F   ,ors,,,,,,,,,,N,,,0,406461243
+00F   ,os,"operatingsyst. TI",,,,,,,,,,,,0,410171040
+00F   ,os1,"operating systems engels",,,,,,,,,N,,,0,410171023
+00F   ,os2,,,,,,,,,,,,,0,410171041
+00F   ,os31,"operating systems p5",,,,,,,,,N,,,0,408481720
+00F   ,os32,"operating systems p6",,,,,,,,,N,,,0,409361735
+00F   ,ossim,,,,,,,,,,N,,,0,406461243
+00F   ,overleg,,,,,,,,,,N,,,0,408481720
+00F   ,OW,,,,,,,,,,N,,,0,406461243
+00F   ,ow.gd,,,,,,,,,,N,,,0,406461243
+00F   ,ow-imd,,,,,,,,,,N,,,0,406461243
+00F   ,OWoverleg,,,,,,,,,,N,,,0,406461243
+00F   ,ow-team S,,,,,,,,,,N,,,0,406461243
+00F   ,p1,,,,,,,,,,N,,,0,406461243
+00F   ,p1-event,"afrondende pres p1",,,,,,,,,N,,,0,410171023
+00F   ,p2,,,,,,,,,,,,,0,410171041
+00F   ,p2-event,,,,,,,,,,N,,,0,409361735
+00F   ,p3,,,,,,,,,,N,,,0,406461243
+00F   ,p3-event,,,,,,,,,,N,,,0,410171023
+00F   ,p4,,,,,,,,,,N,,,0,406461243
+00F   ,p4M-ontw,,,,,,,,,,N,,,0,406461243
+00F   ,p5 gdt,,,,,,,,,,N,,,0,406461243
+00F   ,p5 ls,,,,,,,,,,N,,,0,406461243
+00F   ,p5 mc,,,,,,,,,,N,,,0,406461243
+00F   ,p5-ims,,,,,,,,,,N,,,0,406461243
+00F   ,p6 gdt,,,,,,,,,,N,,,0,406461243
+00F   ,p6 ls,,,,,,,,,,N,,,0,406461243
+00F   ,p6 mc,,,,,,,,,,N,,,0,406461243
+00F   ,p6-ims,,,,,,,,,,N,,,0,406461243
+00F   ,papervision,,,,,,,,,,N,,,0,406461243
+00F   ,php31,"serverside programmering mp5",,,,,,,,,N,,,0,410171023
+00F   ,php32,"serverside programmering mp6",,,,,,,,,,,,0,410171041
+00F   ,pid4,"Beroepsvaardigheden p7,8",,,,,,,,,,,,0,410171041
+00F   ,PL BICT,,,,,,,,,,N,,,0,403741741
+00F   ,plc41,"plc techn. & prog.wijzen p7",,,,,,,,,N,,,0,410171023
+00F   ,PLC41,"plc techn. & prog.wijzen p7",,,,,,,,,N,,,0,403741741
+00F   ,PM,,,,,,,,,,,,,0,410171041
+00F   ,pmt1,,,,,,,,,,N,,,0,406461243
+00F   ,pmt41,,,,,,,,,,N,,,0,406461243
+00F   ,poc41,"Proof of concept (ict m7)",,,,,,,,,N,,,0,410171023
+00F   ,pr TEAM,"team voorlichting",,,,,,,,,N,,,0,406461243
+00F   ,practicum,,,,,,,,,,N,,,0,408481720
+00F   ,prc,,,,,,,,,,N,,,0,406461243
+00F   ,prc1,"programmeertaal C1 ei",,,,,,,,,N,,,0,406461243
+00F   ,prc2,"programmeertaal C2 ei",,,,,,,,,N,,,0,406461243
+00F   ,prc22,,,,,,,,,,,,,0,410171041
+00F   ,prc31,"programmeertaal C p5 Ti",,,,,,,,,N,,,0,408481720
+00F   ,prc32,"programmeertaal C  p6 ti",,,,,,,,,N,,,0,409361735
+00F   ,prc41,"programmeertaal C++  p7",,,,,,,,,N,,,0,410171023
+00F   ,prc42,"prog/ontw. in C++ 42",,,,,,,,,,,,0,410171041
+00F   ,prcn1,,,,,,,,,,N,,,0,408481720
+00F   ,prcn2,,,,,,,,,,N,,,0,409361735
+00F   ,presentatie,,,,,,,,,,,,,0,410171041
+00F   ,prince,,,,,,,,,,,,,0,410171041
+00F   ,prj61,"project  t11,12",,,,,,,,,,,,0,410171041
+00F   ,prj62,"project p11,12",,,,,,,,,,,,0,410171041
+00F   ,prjt6,,,,,,,,,,N,,,0,403741741
+00F   ,prjt7,,,,,,,,,,N,,,0,410171023
+00F   ,pro i,"pro i deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,pro1,"programming eng. stream",,,,,,,,,N,,,0,410171023
+00F   ,pro2,"programming ei",,,,,,,,,,,,0,410171041
+00F   ,pro3,"programming eng. stream",,,,,,,,,N,,,0,410171023
+00F   ,pro4,"programming eng. stream",,,,,,,,,,,,0,410171041
+00F   ,proc#,,,,,,,,,,,,,0,410171041
+00F   ,prod,"prod deeltijd",,,,,,,,,,,,0,410171041
+00F   ,prod1,,,,,,,,,,N,,,0,406461243
+00F   ,prod2,,,,,,,,,,N,,,0,406461243
+00F   ,prodb,"project db",,,,,,,,,N,,,0,406461243
+00F   ,proedb,,,,,,,,,,N,,,0,409361735
+00F   ,proefles,,,,,,,,,,N,,,0,409361735
+00F   ,proeflesGD,,,,,,,,,,N,,,0,404721905
+00F   ,proes,"proj. emb.syst. dt",,,,,,,,,,,,0,410171041
+00F   ,prof1,,,,,,,,,,,,,0,410171041
+00F   ,prof2,,,,,,,,,,,,,0,410171041
+00F   ,pro-fpga,,,,,,,,,,N,,,0,408481720
+00F   ,pro-fpga1,,,,,,,,,,N,,,0,406461243
+00F   ,pro-fpga2,,,,,,,,,,N,,,0,406461243
+00F   ,prog,"programeren deeltijd",,,,,,,,,,,,0,410171041
+00F   ,prog1,"programeren deeltijd",,,,,,,,,,,,0,410171041
+00F   ,prog2,"programeren deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,prog3,"programeren deeltijd",,,,,,,,,N,,,0,408481720
+00F   ,prog4,"programeren deeltijd",,,,,,,,,,,,0,410171041
+00F   ,proj12,"Beroepsvaardigheden P2",,,,,,,,,N,,,0,410171023
+00F   ,proj21,"Beroepsvaardigheden",,,,,,,,,N,,,0,410171023
+00F   ,proj21v,"beroepsvaardigheden verkort",,,,,,,,,N,,,0,409361735
+00F   ,proj-ds,,,,,,,,,,N,,,0,406461243
+00F   ,project,,,,,,,,,,,,,0,410171041
+00F   ,proj-es,,,,,,,,,,N,,,0,408481720
+00F   ,proj-es1,,,,,,,,,,N,,,0,406461243
+00F   ,proj-es2,,,,,,,,,,N,,,0,406461243
+00F   ,proj-fo,,,,,,,,,,N,,,0,408481720
+00F   ,proj-ia,,,,,,,,,,N,,,0,406461243
+00F   ,proj-iw,,,,,,,,,,N,,,0,408481720
+00F   ,proP,,,,,,,,,,N,,,0,410171023
+00F   ,prosd,,,,,,,,,,N,,,0,406461243
+00F   ,prosd-coach,,,,,,,,,,N,,,0,406461243
+00F   ,prose,,,,,,,,,,,,,0,410171109
+00F   ,provide,,,,,,,,,,N,,,0,409671814
+00F   ,prs41,"productiesystemen p7",,,,,,,,,N,,,0,410171023
+00F   ,prTEAM,"team voorlichting",,,,,,,,,N,,,0,410171023
+00F   ,pt11,"proftaak p1",,,,,,,,,N,,,0,410171023
+00F   ,pt12,"proftaak p2",,,,,,,,,,,,0,410171109
+00F   ,pt6,,,,,,,,,,N,,,0,403741741
+00F   ,pt70,,,,,,,,,,N,,,0,404721905
+00F   ,ptb21,"proftaak B p3",,,,,,,,,N,,,0,410171023
+00F   ,ptb22,"proftaak B p4",,,,,,,,,,,,0,410171109
+00F   ,ptb31,"proftaak B p5",,,,,,,,,N,,,0,410171023
+00F   ,ptb32,"proftaak B p6",,,,,,,,,,,,0,410171109
+00F   ,ptb41,"proftaak B p7",,,,,,,,,N,,,0,410171023
+00F   ,ptb42,"Proftaak business 42",,,,,,,,,,,,0,410171109
+00F   ,pteh31,"proftaak ethical hacking",,,,,,,,,N,,,0,406461243
+00F   ,ptm21,"Proftaak M p3",,,,,,,,,N,,,0,410171023
+00F   ,ptm21v,"Proftaak M p3 verkort",,,,,,,,,N,,,0,406461243
+00F   ,ptm22,"proftaak M p4",,,,,,,,,,,,0,410171109
+00F   ,ptm22v,"proftaak M p4 verkort",,,,,,,,,N,,,0,406461243
+00F   ,ptm31,"Proftaak M p5 design",,,,,,,,,N,,,0,410171023
+00F   ,ptm32,"proftaak M p6",,,,,,,,,,,,0,410171109
+00F   ,ptm41,"proftaak M p7",,,,,,,,,N,,,0,410171023
+00F   ,ptm42,"proftaak mediadesign",,,,,,,,,,,,0,410171109
+00F   ,ptm6,"proftaak mediadesign p11,12",,,,,,,,,,,,0,410171110
+00F   ,ptm61,,,,,,,,,,N,,,0,403741741
+00F   ,ptm62,,,,,,,,,,N,,,0,403741741
+00F   ,ptm7,"proftaak mediadesign p11,12",,,,,,,,,,,,0,410171110
+00F   ,ptm72,,,,,,,,,,N,,,0,410171023
+00F   ,pts21,"Proftaak software engineering",,,,,,,,,N,,,0,410171023
+00F   ,pts21v,"Proftaak S p3 verkort",,,,,,,,,N,,,0,406461243
+00F   ,pts22,"proftaak S p4",,,,,,,,,,,,0,410171110
+00F   ,pts22v,"proftaak S p4 verkort",,,,,,,,,N,,,0,406461243
+00F   ,pts31,"Proftaak S p6",,,,,,,,,N,,,0,410171023
+00F   ,pts32,"proftaak S p6",,,,,,,,,,,,0,410171110
+00F   ,pts41,"proftaak S p7",,,,,,,,,N,,,0,410171023
+00F   ,pts42,"proftaak software engineering",,,,,,,,,,,,0,410171110
+00F   ,pts61,,,,,,,,,,N,,,0,410171023
+00F   ,pts62,,,,,,,,,,,,,0,410171110
+00F   ,pts71,,,,,,,,,,N,,,0,410171023
+00F   ,pts72,,,,,,,,,,,,,0,410171110
+00F   ,ptt21,"Proftaak T p3  technology",,,,,,,,,N,,,0,410171023
+00F   ,ptt22,"proftaak T p4",,,,,,,,,,,,0,410171110
+00F   ,ptt31,"Proftaak T p5 hard emb. systems",,,,,,,,,N,,,0,408481720
+00F   ,ptt32,"proftaak T p6",,,,,,,,,N,,,0,409361735
+00F   ,ptt41,"proftaak T p7",,,,,,,,,N,,,0,410171023
+00F   ,ptt42,"proftaak Amigo ti",,,,,,,,,,,,0,410171110
+00F   ,pw1/2,"projectmatig werken",,,,,,,,,N,,,0,406461243
+00F   ,Qbp22,"Quallity Business processes",,,,,,,,,N,,,0,406461243
+00F   ,Q-team,"overleg kwaliteitszorg",,,,,,,,,N,,,0,406461243
+00F   ,Q-zorg,,,,,,,,,,N,,,0,403741741
+00F   ,recreado,"fastlane traject",,,,,,,,,N,,,0,406461243
+00F   ,regtech,,,,,,,,,,N,,,0,403741741
+00F   ,reserve,,,,,,,,,,N,,,0,410171023
+00F   ,review,,,,,,,,,,N,,,0,403741741
+00F   ,rgb,,,,,,,,,,N,,,0,406461243
+00F   ,rla,"realisatie lagenarchitectuur",,,,,,,,,N,,,0,406461243
+00F   ,rms,,,,,,,,,,N,,,0,408481720
+00F   ,robotica,,,,,,,,,,N,,,0,408481720
+00F   ,rt22,,,,,,,,,,N,,,0,409361735
+00F   ,rte,"remedial teaching english",,,,,,,,,N,,,0,406461243
+00F   ,safety,,,,,,,,,,N,,,0,410171023
+00F   ,sam3,"beroepsvaardigheden p5,6",,,,,,,,,,,,0,410171110
+00F   ,sap,"sap practicum",,,,,,,,,N,,,0,409361735
+00F   ,scm,"suply chain management",,,,,,,,,,,,0,410171110
+00F   ,scrum,,,,,,,,,,N,,,0,410171023
+00F   ,scs70,"scenarioschrijven",,,,,,,,,,,,0,410231432
+00F   ,sd,"sound design",,,,,,,,,N,,,0,406461243
+00F   ,sd6,,,,,,,,,,,,,0,410171110
+00F   ,sd7,,,,,,,,,,N,,,0,410171023
+00F   ,se,"software engineering",,,,,,,,,N,,,0,409361735
+00F   ,se12,"software engineering p2",,,,,,,,,,,,0,410171110
+00F   ,se21,"Software engineering p3",,,,,,,,,N,,,0,410171023
+00F   ,se21v,"Software engineering p3 verkort",,,,,,,,,N,,,0,410171023
+00F   ,se22,"Software engineering p4",,,,,,,,,,,,0,410171110
+00F   ,se22v,"Software engineering p4 verkort",,,,,,,,,,,,0,410171110
+00F   ,se41,,,,,,,,,,N,,,0,410171023
+00F   ,se42,"software engineering 42",,,,,,,,,,,,0,410171110
+00F   ,se7,,,,,,,,,,,,,0,410731359
+00F   ,se71,,,,,,,,,,N,,,0,410171023
+00F   ,se72,,,,,,,,,,N,,,0,406461243
+00F   ,sec,"security deeltijd",,,,,,,,,,,,0,410171110
+00F   ,sec1,"security1",,,,,,,,,N,,,0,409361735
+00F   ,sec2,"secrurity2",,,,,,,,,,,,0,410171110
+00F   ,sec3,"security deeltijd",,,,,,,,,,,,0,410171110
+00F   ,sec4,"security deeltijd",,,,,,,,,,,,0,410171110
+00F   ,secos,,,,,,,,,,N,,,0,403741741
+00F   ,secret chat,,,,,,,,,,,,,0,410171110
+00F   ,secso,,,,,,,,,,N,,,0,403741741
+00F   ,sem31,"semiotiek m5",,,,,,,,,N,,,0,410171023
+00F   ,sem6,,,,,,,,,,N,,,0,409361735
+00F   ,seminar,,,,,,,,,,N,,,0,406461243
+00F   ,sen,"Software engineering deeltijd",,,,,,,,,N,,,0,410171023
+00F   ,sen1,"Software engineering deeltijd",,,,,,,,,N,,,0,410171023
+00F   ,sen2,"Software engineering deeltijd",,,,,,,,,N,,,0,410171023
+00F   ,sen3,"Software engineering deeltijd",,,,,,,,,N,,,0,404721907
+00F   ,sen4,,,,,,,,,,N,,,0,404721907
+00F   ,seo3,"oso onderwijs",,,,,,,,,,,,0,410191554
+00F   ,ser gam,,,,,,,,,,N,,,0,403741741
+00F   ,sho,"systeemherontwerp",,,,,,,,,N,,,0,406461243
+00F   ,shop,,,,,,,,,,,,,0,410171111
+00F   ,skills,,,,,,,,,,N,,,0,406461243
+00F   ,skp71,,,,,,,,,,N,,,0,410171023
+00F   ,skp72,,,,,,,,,,N,,,0,409361735
+00F   ,slb,"StudieLoopbaan Begeleiding",,,,,,,,,N,,,0,410171023
+00F   ,slb11,"StudieLoopbaan Begeleiding p1",,,,,,,,,N,,,0,410171023
+00F   ,slb12,"StudieLoopbaan Begeleiding p2",,,,,,,,,,,,0,410171111
+00F   ,slb21,"StudieLoopbaan Begeleiding p3",,,,,,,,,N,,,0,410171023
+00F   ,slb21v,"StudieLoopbaan Begeleiding p3 verkort",,,,,,,,,N,,,0,408481720
+00F   ,slb22,"StudieLoopbaan Begeleiding p4",,,,,,,,,,,,0,410171111
+00F   ,slb22v,,,,,,,,,,N,,,0,409361735
+00F   ,slb31,,,,,,,,,,N,,,0,406461243
+00F   ,slb-overleg,,,,,,,,,,N,,,0,406461243
+00F   ,slbp1,,,,,,,,,,N,,,0,407981358
+00F   ,slbp2,,,,,,,,,,N,,,0,409361735
+00F   ,sman7,"android development",,,,,,,,,N,,,0,408481720
+00F   ,smart mob.,,,,,,,,,,N,,,0,409361735
+00F   ,smco31,"concepting",,,,,,,,,N,,,0,408481720
+00F   ,smco7,"concepting",,,,,,,,,N,,,0,408481720
+00F   ,smcp7,,,,,,,,,,N,,,0,410171023
+00F   ,smcs,,,,,,,,,,N,,,0,410171023
+00F   ,smed41,"experiance design",,,,,,,,,N,,,0,410171023
+00F   ,smid7,"interaction design & styleguides",,,,,,,,,N,,,0,409321122
+00F   ,smios7,"xcode development",,,,,,,,,N,,,0,408481720
+00F   ,smon32,,,,,,,,,,N,,,0,409361735
+00F   ,smon42,"onderzoek p8",,,,,,,,,,,,0,410171111
+00F   ,smon7,"onderzoek",,,,,,,,,N,,,0,408481720
+00F   ,smpt32,,,,,,,,,,N,,,0,409361735
+00F   ,smpt41,,,,,,,,,,N,,,0,407431406
+00F   ,smpt42,,,,,,,,,,,,,0,410171111
+00F   ,smpt7,,,,,,,,,,N,,,0,410171023
+00F   ,smtcar,"workshop voorlichting",,,,,,,,,,,,0,410171111
+00F   ,smte31,"xcode development",,,,,,,,,N,,,0,408481720
+00F   ,smte41,,,,,,,,,,N,,,0,410171023
+00F   ,smulsnk,"fastlane traject",,,,,,,,,N,,,0,409361735
+00F   ,so1,"systeemontwerp1",,,,,,,,,N,,,0,410171023
+00F   ,so12,"systeemontwerp12",,,,,,,,,N,,,0,406461243
+00F   ,so2,"systeemontwerp2",,,,,,,,,,,,0,410171111
+00F   ,so21,"systeemontwerp21",,,,,,,,,N,,,0,406461243
+00F   ,so21v,"systeemontwerp21 verkort",,,,,,,,,N,,,0,406461243
+00F   ,so22,"systeemontwerp22",,,,,,,,,N,,,0,408481720
+00F   ,so2V,,,,,,,,,,N,,,0,408481720
+00F   ,so3,"systeemontwerp3",,,,,,,,,N,,,0,410171023
+00F   ,so31,"systeemontwikkeling",,,,,,,,,N,,,0,410171023
+00F   ,so32,"systeemontwerp 32",,,,,,,,,,,,0,410171111
+00F   ,so3x:so4x,,,,,,,,,,N,,,0,403741741
+00F   ,so4,,,,,,,,,,N,,,0,409361735
+00F   ,so41,"systeemontwerp41",,,,,,,,,N,,,0,410171023
+00F   ,so42,"systeemontwerp42",,,,,,,,,,,,0,410171111
+00F   ,soa,,,,,,,,,,N,,,0,409361735
+00F   ,sol61,"Beroepsvaardigheden p13,14",,,,,,,,,,,,0,410171111
+00F   ,sound,"sounddesign",,,,,,,,,N,,,0,406461243
+00F   ,sp,"schrijven v. procesverslagen",,,,,,,,,N,,,0,406461243
+00F   ,SPEC,,,,,,,,,,N,,,0,409361735
+00F   ,spr,"spr deeltijd",,,,,,,,,N,,,0,409361735
+00F   ,spr1,"spr deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,spr2,"spr deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,spr3,"spr deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,spr4,"spr deeltijd",,,,,,,,,N,,,0,406461243
+00F   ,sprint,,,,,,,,,,N,,,0,406461243
+00F   ,sql,"sql-cursus cit",,,,,,,,,N,,,0,409361735
+00F   ,st,"storytelling",,,,,,,,,N,,,0,403741741
+00F   ,stage,,,,,,,,,,N,,,0,406461243
+00F   ,start,,,,,,,,,,N,,,0,404521231
+00F   ,stat,,,,,,,,,,N,,,0,405141059
+00F   ,stco70,,,,,,,,,,N,,,0,406461243
+00F   ,sto31,"storytelling m5",,,,,,,,,N,,,0,410171023
+00F   ,stud.ochtend,,,,,,,,,,N,,,0,406461243
+00F   ,stuurgroep,,,,,,,,,,N,,,0,406461243
+00F   ,swe,"Software engineering deeltijd",,,,,,,,,N,,,0,409361735
+00F   ,swe1,"Software engineering deeltijd",,,,,,,,,N,,,0,409361735
+00F   ,swe2,"Software engineering deeltijd",,,,,,,,,N,,,0,407241457
+00F   ,swe3,"Software engineering deeltijd",,,,,,,,,N,,,0,408481720
+00F   ,swe4,"Software engineering deeltijd",,,,,,,,,N,,,0,408481720
+00F   ,swot22,"Beroepsvaardigheden",,,,,,,,,,,,0,410171111
+00F   ,swot22v,"beroepsvaardigheden verkort",,,,,,,,,N,,,0,409331533
+00F   ,symposium,,,,,,,,,,,,,0,410171111
+00F   ,sysml,,,,,,,,,,N,,,0,409361915
+00F   ,t&h,"trends & hypes",,,,,,,,,N,,,0,409361735
+00F   ,T&H,,,,,,,,,,N,,,0,404721908
+00F   ,t&k,,,,,,,,,,N,,,0,403741741
+00F   ,taakgroep,,,,,,,,,,N,,,0,406461243
+00F   ,tb1-cons,"technisch beheer1",,,,,,,,,N,,,0,406461243
+00F   ,tb1mbo,"technisch beheer1",,,,,,,,,N,,,0,406461243
+00F   ,tb1-opdr,"technisch beheer1",,,,,,,,,N,,,0,406461243
+00F   ,tb1-proc,"technisch beheer1",,,,,,,,,N,,,0,406461243
+00F   ,tb1-pw,"technisch beheer1",,,,,,,,,N,,,0,406461243
+00F   ,tb1S,"technisch beheer1",,,,,,,,,N,,,0,406461243
+00F   ,tb2-cons,"technisch beheer2",,,,,,,,,N,,,0,406461243
+00F   ,tb2-opdr,"technisch beheer2",,,,,,,,,N,,,0,406461243
+00F   ,tb2-proc,"technisch beheer2",,,,,,,,,N,,,0,406461243
+00F   ,tb2-pw,"technisch beheer2",,,,,,,,,N,,,0,406461243
+00F   ,Tck,,,,,,,,,,N,,,0,406461243
+00F   ,team-B,,,,,,,,,,N,,,0,406461243
+00F   ,team-M,,,,,,,,,,N,,,0,406461243
+00F   ,team-S,,,,,,,,,,N,,,0,406461243
+00F   ,team-T,,,,,,,,,,N,,,0,406461243
+00F   ,techn.tour,,,,,,,,,,N,,,0,408641113
+00F   ,tentamen,,,,,,,,,,N,,,0,409361735
+00F   ,teruggave,,,,,,,,,,,,,0,410171112
+00F   ,terugkomdag,,,,,,,,,,,,,0,410171112
+00F   ,ti-team,,,,,,,,,,N,,,0,406461243
+00F   ,tla,,,,,,,,,,N,,,0,410171023
+00F   ,TL-CE,,,,,,,,,,N,,,0,406461243
+00F   ,training,,,,,,,,,,N,,,0,409361735
+00F   ,trends,,,,,,,,,,,,,0,410171112
+00F   ,tri31,,,,,,,,,,N,,,0,406461243
+00F   ,Tse6,,,,,,,,,,,,,0,410171112
+00F   ,Tse7,,,,,,,,,,N,,,0,410171023
+00F   ,tsp62,"Beroepsvaardigheden",,,,,,,,,,,,0,410171112
+00F   ,tsp72,"Beroepsvaardigheden",,,,,,,,,,,,0,410171458
+00F   ,tutor,,,,,,,,,,,,,0,410171112
+00F   ,twi,"technische web infra(cit)",,,,,,,,,N,,,0,408481740
+00F   ,uc,"usability computing (DT)",,,,,,,,,,,,0,410171112
+00F   ,ued,,,,,,,,,,N,,,0,406461243
+00F   ,uid,"user interface design",,,,,,,,,N,,,0,410171023
+00F   ,uitzwaaidag,,,,,,,,,,,,,0,410171112
+00F   ,uml,,,,,,,,,,,,,0,410171112
+00F   ,uml6,"uml voor m11,12",,,,,,,,,N,,,0,410171023
+00F   ,UO,"Uitvoeringsoverleg",,,,,,,,,Na,,,0,410171112
+00F   ,ut42,"user testing m8",,,,,,,,,,,,0,410171112
+00F   ,uu42,"user&usability m8",,,,,,,,,,,,0,410171112
+00F   ,v3d1,,,,,,,,,,N,,,0,410171023
+00F   ,vakeig.p1,,,,,,,,,,N,,,0,407981358
+00F   ,VAL,,,,,,,,,,,,,0,410171112
+00F   ,vc12c,"visuele com c",,,,,,,,,,,,0,410171112
+00F   ,vc12d,"visuele com / design",,,,,,,,,,,,0,410171112
+00F   ,vcc1,,,,,,,,,,N,,,0,410171023
+00F   ,vd,"Virtual Design",,,,,,,,,N,,,0,406461243
+00F   ,vdv1,,,,,,,,,,IN,,,0,409351241
+00F   ,ved1,,,,,,,,,,N,,,0,410171023
+00F   ,ver12,"vergaderen&presenteren p2",,,,,,,,,,,,0,410171112
+00F   ,vergadering,,,,,,,,,,N,,,0,409361735
+00F   ,vex2,,,,,,,,,,,,,0,410171112
+00F   ,vie1,"virtual inmercief enviroment",,,,,,,,,N,,,0,408481720
+00F   ,virtualisatie,,,,,,,,,,N,,,0,406461243
+00F   ,vis2,,,,,,,,,,,,,0,410171112
+00F   ,vm,"verandermanagement",,,,,,,,,N,,,0,406461243
+00F   ,voordracht,,,,,,,,,,,,,0,410171112
+00F   ,voorlichting,,,,,,,,,,,,,0,410171112
+00F   ,vpt,"virtual proftaak",,,,,,,,,N,,,0,408481720
+00F   ,vpt1,,,,,,,,,,N,,,0,410171023
+00F   ,vpt2,,,,,,,,,,,,,0,410171112
+00F   ,vrs2,,,,,,,,,,,,,0,410171112
+00F   ,vs,,,,,,,,,,N,,,0,406461243
+00F   ,vsa,,,,,,,,,,N,,,0,410171113
+00F   ,vsmis,,,,,,,,,,N,,,0,406461243
+00F   ,vso,"vso",,,,,,,,,,,,0,410171113
+00F   ,vso2,,,,,,,,,,N,,,0,406461243
+00F   ,vso4,"vso",,,,,,,,,,,,0,410171113
+00F   ,vspr1,,,,,,,,,,N,,,0,406461243
+00F   ,vspr2,,,,,,,,,,N,,,0,406461243
+00F   ,vspris,,,,,,,,,,N,,,0,406461243
+00F   ,vsrad,,,,,,,,,,N,,,0,406461243
+00F   ,vtd1,"virtual tools & devices",,,,,,,,,N,,,0,408481720
+00F   ,wd32,"web design 32 mp6",,,,,,,,,,,,0,410171113
+00F   ,webd,,,,,,,,,,N,,,0,406461243
+00F   ,webd1,,,,,,,,,,N,,,0,407431408
+00F   ,web-ec,,,,,,,,,,N,,,0,406461243
+00F   ,webip,,,,,,,,,,N,,,0,406461243
+00F   ,webja,,,,,,,,,,N,,,0,406461243
+00F   ,webm3,,,,,,,,,,N,,,0,410171023
+00F   ,webmas,,,,,,,,,,,,,0,410171113
+00F   ,webte,,,,,,,,,,N,,,0,406461243
+00F   ,welkom,"wilkommen",,,,,,,,,N,,,0,409251508
+00F   ,werkveld,"field of labor",,,,,,,,,N,,,0,409361735
+00F   ,wisk,"wiskunde bij engineering",,,,,,,,,N,,,0,410171023
+00F   ,workshop,,,,,,,,,,,,,0,410171113
+00F   ,wp12,"webprogramming",,,,,,,,,,,,0,410171113
+00F   ,wpb21,"Web programming p3",,,,,,,,,N,,,0,404721910
+00F   ,wpb22,"Web programming p4",,,,,,,,,N,,,0,410171023
+00F   ,wpl,"project werkplek",,,,,,,,,N,,,0,406461243
+00F   ,wpl-proc,"project werkplek procesbespreking",,,,,,,,,N,,,0,406461243
+00F   ,wpm21,"webprogramming 21",,,,,,,,,N,,,0,410171023
+00F   ,wpm22,"webprogramming 22",,,,,,,,,,,,0,410171113
+00F   ,wsh,"webshop dt",,,,,,,,,N,,,0,406461243
+00F   ,wti,"Wiskunde technology Eng.streami",,,,,,,,,N,,,0,407431408
+00F   ,wti21,"Wiskunde technology p3",,,,,,,,,N,,,0,406461243
+00F   ,wti22,"Wiskunde technology p4",,,,,,,,,,,,0,410171113
+00F   ,wti5,"wiskunde voor techn. inf.",,,,,,,,,N,,,0,406461243
+00F   ,wvo,"werkveldorientatie",,,,,,,,,N,,,0,406461243
+00F   ,iip-gesprek,,,,,,,,,,N,,,0,410221249
+00F   ,themasessie,,,,,,,,,,,,,0,410241642
+00F   ,sog,,,,,,,,,,,,,0,410371414
+00F   ,springbreak,,,,,,,,,,,,,0,410381329
+00F   ,c##,,,,,,,,,,,,,0,410401425
+00F   ,meeting,,,,,,,,,,,,,0,410431333
+00F   ,interview,,,,,,,,,,,,,0,410451514
+00F   ,Feedback,,,,,,,,,,,,,0,410671741
+00F   ,vragen,,,,,,,,,,,,,0,410671749
+00F   ,Firebee,,,,,,,,,,,,,0,410781631

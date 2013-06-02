@@ -1,0 +1,561 @@
+00L   ,AK,"Alebeek, Frans v.",,"inhuur",,,,,,,N,,,0,410391550
+ZT000000000000
+Le ,,,,pens,,,,M,,0,0,,,frans.vanalebeek@gmail.com
+00L   ,Aalst,"Aalst, Leo vdr.",,"lector",,,,,,,,,,0,407801815
+ZT000000000000
+Le ,,,,,,,,alg,,0,0,,,l.vanderaalst@fontys.nl
+00L   ,aas,"Aarts, Henk",,,,,,,,,,,,0,409671206
+ZT000000000000 ,2,,  1
+Le ,,,,1,,,,ei,,0,0,,,N.Aarts@fontys.nl
+00L   ,adns,"Adriaanse, Kees",,,,,,,,,N,,,0,407181427
+ZT000000000000
+Le ,,,,1,,,,alg,,0,0,,,c.adriaanse@fontys.nl
+00L   ,agv,"Angelov,Samuil",,,,,,,,,,,,0,409981612
+ZA ,              333333
+ZT000000000000
+Le ,,,,1,,,,S,,0,0,,,S.angelov@fontys.nl
+00L   ,are,"Aretz,Paul",,,,,,,,,,,,0,409981613
+ZT000000000000 ,,1
+Le ,,,,1,,,,S,,0,0,,,P.Aretz@fontys.nl
+00L   ,bel,"Belle, Joeri van",,,,,,,,,,,,0,407101445
+ZT000000000000 ,,,,,  1
+Le ,,,,0;8,,,,T,,0,0,,,J.vanbelle@fontys.nl
+00L   ,bkf,"Brunekreef, Jacob",,"lector",,,,,,,,,,0,409671222
+ZT000000000000 ,  1,  1,  1
+Le ,,,,,,,,alg,,0,0,,,J.brunekreef@fontys.nl
+00L   ,bo,"Boots, Peter",,,,1000,,,,,,,,0,409671206
+ZA ,              1         44441
+LK        1 9 1
+ZT001000000000
+Le ,,,,1,,,,ei,,0,0,,,P.Boots@fontys.nl
+00L   ,bon,"Boonen,Jos",,,,,,,,,,,,0,404691201
+ZT000000000000 ,,,  1
+Le ,,,,1,,,,S,,0,0,,,J.Boonen@fontys.nl
+00L   ,brd,"Bardie, Anke",,,,,,,,,,,,0,407181600
+ZA ,              11111
+ZT000000000000 ,,,  1,  1
+Le ,,,,0.4,,,,M,,0,0,,,a.bardie@fontys.nl
+00L   ,brk,"Broek,Peter.vdn",,"inhuur",,,,,,,N,,,0,410391550
+ZA ,22      2     22      2     22      2
+ZT000000000000 ,,,,  1,  1
+Le ,,,,pens,,,,S,,0,0,,,P.vandenBroek@fontys.nl
+00L   ,broe,"Broek,Jacqueline vdn.",,,,,,,,,,,,0,407211446
+ZA ,                                             111
+ZT000000000000
+Le ,,,,1,,,,B,,0,0,,,jacqueline.vandenbroek@fontys.nl
+00L   ,brs,"Broumels, Tom",,,,,,,,,,,,0,409981614
+ZA ,22                                                           2222
+ZT000000100000
+Le ,,,,1,,,,S,,0,0,,,t.broumels@fontys.nl
+00L   ,bijl,"Bijl, Rolf",,"15-8-12",,,,,,,N,,,0,410541041
+ZT000000000000
+Le ,,,,1,,,,S,,0,0,,,r.bijl@fontys.nl
+00L   ,cmb,"Crombach, Coen",,,,,,,,,,,,0,409261152
+ZA ,                              111111111111                 1111111
+ZT000000000000
+Le ,,,,0.8,,,,S,,0,0,,,c.crombach@fontys.nl
+00L   ,cnn,"Cornelissen, Adri",,,,,,,,,,,,0,403601659
+ZT000000000000 ,  1,,,  2
+Le ,,,,0.9,,,,cit,,0,0,,,a.cornelissen@fontys.nl
+00L   ,coe,"Coenen,Frank",,,,,,,,,,,,0,410011039
+ZA ,                               2222
+ZT000000000000 ,,,,  1,  1
+Le ,,,,0;6,,,,S,,0,0,,,F.Coenen@fontys.nl
+00L   ,cot,"Cooten, Rob v.",,,,1000,,,,,,,,0,405531433
+ZT000000000000 ,,1,,1
+Le ,,,,1,,,,M,,0,0,,,R.vanCooten@fontys.nl
+00L   ,cts,"Cats,Theo",,,,,,,,,,,,0,409381526
+ZA ,22   4444          4444
+ZT000000000000 ,,,  1,  1,44
+Le ,,,,1,,,,S,,0,0,,,T.Cats@fontys.nl
+00L   ,dis,"Dirks, Geert",,,,1000,,,,,,,,0,409671207
+ZT000000000000 ,,,  1,,  1
+Le ,,,,0;25,,,,ei,,0,0,,,G.Dirks@fontys.nl
+00L   ,dn,"Deen, Menno",,,,,,,,,,,,0,398621451
+ZT000000000000
+Le ,,,,0;2,,,,alg,,0,0,,,Menno.deen@fontys.nl
+00L   ,dor,"Dorenbos, Marco",,,,1000,,,,,,,,0,407211448
+ZA ,                        444411111
+ZT000000000000
+Le ,,,,1,,,,B,,0,0,,,M.Dorenbos@fontys.nl
+00L   ,doh,"Dortmans, Eric",,,,,,,,,,,,0,410011203
+ZA ,              2             1111      44442             2
+ZT000000000000 ,  2
+Le ,,,,1,,,,T,,0,0,,,E.Dortmans@fontys.nl
+00L   ,dy,"Dijk, Corné van",,,,1000,,,,,,,,0,409251212
+ZA ,              2222      4444
+ZT000000000000 ,,,  1,  1
+Le ,,,,0.6,,,,T,,0,0,,,C.vanDijk@fontys.nl
+00L   ,egld,"Engeland, Inge van",,,,,,,,,,,,0,409561542
+ZA ,                      222222          2222          2222
+ZT000000100000
+Le ,,,,1,,,,S,,0,0,,,i.vanengeland@fontys.nl
+00L   ,ejv,"Erp, Jacqueline v.",,,,,,,,,,,,0,407181601
+ZT000000000000 ,,,,,  2
+Le ,,,,1,,,,M,,0,0,,,J.vanErp@fontys.nl
+00L   ,Ekh,"Eekhout, Michel van",,,,,,,,,,,,0,407211448
+ZA ,                                                    44441111 2222
+ZT000000000000
+Le ,,,,1,,,,B,,0,0,,,m.vaneekhout@fontys.nl
+00L   ,end,"Enden, Dries van den",,,,,,,,,,,,0,409981020
+ZA ,          4444                        4444
+ZT001000000000
+Le ,,,,1,,,,B,,0,0,,,d.vandenenden@fontys.nl
+00L   ,erp,"Erp, Wil van",,,,,,,,,,,,0,407181602
+ZA ,                                                               22
+ZT000000000000
+Le ,,,,1,,,,M,,0,0,,,W.vanERp@fontys.nl
+00L   ,eyck,"Eyck, Anke",,,,,,,,,,,,0,410011138
+ZT000000000000 ,,,,,  1
+Le ,,,,0;8,,,,M,,0,0,,,a.eyck@fontys.nl
+00L   ,fbl,"Friebel, Yvette",,,,,,,,,,,,0,409671127
+ZA ,2             2             2             2    444444444     1111
+ZT000000000000 , 1
+Le ,,,,0;9,,,,B,,0,0,,,y.friebel@fontys.nl
+00L   ,fig,"Figaroa,Oswald",,,,,,,,,,,,0,410011204
+ZA ,                                                    4444     2222
+ZT000000000000 ,  2
+Le ,,,,1,,,,T,,0,0,,,O.figaroa@fontys.nl
+00L   ,fra,"Franssen, Michael",,,,,,,,,,,,0,410011040
+ZA ,22        444422        444422            22            22
+ZT000000000000
+Le ,,,,1,,,,S,,0,0,,,michael.franssen@fontys.nl
+00L   ,frn,"Fransen, Marielle",,,,,,,,,,,,0,409901621
+ZA ,1             1     111                   1       1
+ZT000000000000 ,,,  1,,  1
+Le ,,,,0;7,,,,ei,,0,0,,,M.Fransen@fontys.nl
+00L   ,gaf,"Gaffert, Judith",,,,,,,,,,,,0,407181602
+ZT000000000000 ,,,,  1,  1
+Le ,,,,0;6,,,,M,,0,0,,,j.gaffert@fontys.nl
+00L   ,gl,"Gestel,Bert.v.",,,,,,,,,,,,0,410011157
+ZA ,    2             2             2             2             2
+ZT001000000000
+Le ,,,,1,,,,ei,,0,0,,,B.vanGestel@fontys.nl
+00L   ,gms,"Graaumans, Joris",,,,,,,,,,,,0,409671130
+ZT000000000000 ,,,,, 2
+Le ,,,,0.8,,,,M,,0,0,,,j.graaumans@fontys.nl
+00L   ,gnmr,"Groenemeijer, Michiel",,,,,,,,,,,,0,407151424
+ZT000000000000
+Le ,,,,1,,,,M,,0,0,,,m.groenemeijer@fontys.nl
+00L   ,gnn,"Geenen,Jurjen van",,,,,,,,,,,,0,409531501
+ZT000000000000 ,  1,  1,  1
+Le ,,,,0;4,,,,S,,0,0,,,j.vangeenen@fontys.nl
+00L   ,grf,"Graaf, Lennart de",,,,1000,,,,,,,,0,410011205
+ZT001000000000
+Le ,,,,1,,,,T,,0,0,,,L.deGraaf@fontys.nl
+00L   ,grp,"Gorp, Leon van",,,,,,,,,,,,0,410371055
+ZT000000000000
+Le ,,,,0;4,,,,B,,0,0,,,l.vanGorp@fontys.nl
+00L   ,grw,"Gerwen, Thijs van",,,,,,,,,,,,0,410011139
+ZT000000000000 ,  1,,,  1
+Le ,,,,0;6,,,,M,,0,0,,,t.vangerwen@fontys.nl
+00L   ,GSWL,"Gansewinkel, R.",,"inhuur",,,,,,,N,,,0,409241547
+ZT000000000000
+Le ,,,,,,,,DT,,0,0,,,?
+00L   ,gts,"Geurts, Joris",,"0.3 lorentz",,,,,,,,,,0,409671220
+ZA ,                             1111111111111
+ZT000000000000
+Le ,,,,1,,,,T,,0,0,,,J.geurts@fontys.nl
+00L   ,gvr,"Govers,Corne",,,,,,,,,,,,0,410011206
+ZT000000000000
+Le ,,,,1,,,,T,,0,0,,,c.govers@fontys.nl
+00L   ,gwg,"Groeneweg,Arjan",,,,,,,,,,,,0,410011140
+ZT000000100000 ,  1
+Le ,,,,0;6,,,,M,,0,0,,,A.groeneweg@fontys.nl
+00L   ,hck,"Heck,Petra",,,,,,,,,,,,0,409561540
+ZT000000100000 ,,,,,  2
+Le ,,,,1,,,,S,,0,0,,,P.Heck@fontys.nl
+00L   ,hdn,"Heijden, René v.d.",,,,1000,,,,,,,,0,0
+ZT000000000000 ,,,,,  2
+Le ,,,,1,,,,S,,0,0,,,R.vanderHeijden@fontys.nl
+00L   ,heij,"Heijden,Anthony van der",,,,,,,,,,,,0,409251213
+ZT000000000000
+Le ,,,,1,,,,T,,0,0,,,Anthony.vanderheijden@fontys.nl
+00L   ,heil,"Heil,Ineke",,,,,,,,,,,,0,409671224
+ZT000000000000
+Le ,,,,0;5,,,,cit,,0,0,,,c.Heil@fontys.nl
+00L   ,hem,"Heumen,Hans.v.",,,,,,,,,,,,0,0
+ZT000000000000 ,,,,  1,  1
+Le ,,,,0;5,,,,S,,0,0,,,H.vanHeumen@fontys.nl
+00L   ,hkt,"Haverkort, Frank",,,,,,,,,,,,0,408561038
+ZA ,          4444
+ZT000000000000 ,,,,,  1
+Le ,,,,1,,,,S,,0,0,,,F.Haverkort@fontys.nl
+00L   ,hlgs,"Heijligers, Erik",,,,,,,,,,,,0,410011119
+ZT000000000000
+Le ,,,,1,,,,M,,0,0,,,E.heijligers@fontys.nl
+00L   ,hls,"Helsen, Gé",,,,,,,,,,,,0,407181630
+ZT000000000000 ,  1,,,  1
+Le ,,,,0;8,,,,M,,0,0,,,G.Helsen@fontys.nl
+00L   ,hmr,"Hamers,Rien",,,,,,,,,,,,0,407211517
+ZA ,     2222 4444
+ZT000000000000 ,,,  1
+Le ,,,,1,,,,S,,0,0,,,Z.Hamers@fontys.nl
+00L   ,hnr,"Heinrichs,Gabri",,,,,,,,,n,,,0,410011142
+ZT000000000000 ,  1,  2,,,  1
+Le ,,,,0;6,,,,M,,0,0,,,g.heinrichs@fontys.nl
+00L   ,hns,"Huyskens,Ineke",,,,,,,,,,,,0,407181630
+ZT000000000000 ,  1,,,,  1
+Le ,,,,0.64,,,,M,,0,0,,,I.Huyskens@fontys.nl
+00L   ,hts,"Huberts,Theo",,,,1000,,,,,,,,0,410011041
+ZA ,              11            2
+ZT000000000000
+Le ,,,,1,,,,S,,0,0,,,T.Huberts@fontys.nl
+00L   ,hul,"Hulten,Mart.v.",,,,,,,,,,,,0,409261640
+ZA ,11   111111111
+ZT000000000000
+Le ,,,,1,,,,B,,0,0,,,M.vanHulten@fontys.nl
+00L   ,hv,"Heuvel, Hans vdn",,"geen lessen",,,,,,,,,,0,409671209
+ZT000000000000
+Le ,,,,0;3,,,,S-dt,,0,0,,,H.vandenHeuvel@fontys.nl
+00L   ,Jgr,"Jager,Marian",,,,,,,,,,,,0,406891406
+ZT000000000000
+Le ,,,,1,,,,T,,0,0,,,M.Jager@fontys.nl
+00L   ,kant,"Kant, Joost",,"inhuur",,,,,,,,,,0,410391550
+ZT000000000000
+Le ,,,,pens,,,,cit,,0,0
+00L   ,KAU,"Kauffeld,Guus",,"inhuur",,,,,,,,,,0,407181357
+ZT000000000000
+Le ,,,,,,,,DT,,0,0,,,g.kauffeld@fontys.nl
+00L   ,KK,"Kuijk, Mirjam v.",,"inhuur",,,,,,,N,,,0,409241547
+ZT000000000000
+Le ,,,,?,,,,FhFM,,0,0,,,m.vankuijk@fontys.nl
+00L   ,KNGH,"Kinlough, Bill",,,,,,,,,N,,,0,403601702
+ZT000000000000 ,,  2,  3,, 1
+Le ,,,,,,,,e,,0,0,,,b.kinlough@fontys.nl
+00L   ,kmv,"Kuijk, Mark van",,,,,,,,,,,,0,407181650
+ZT000000000000 ,  1
+Le ,,,,0;8,,,,M-g,,0,0,,,mark.vanKuijk@fontys.nl
+00L   ,koo,"Koopmans, sjoerd",,,,,,,,,N,,,0,409241543
+ZT000000000000
+Le ,,,,?,,,,dt,,0,0,,,s.koopmans@fontys.nl
+00L   ,kpr,"Kasper,Andries",,,,,,,,,,,,0,409261156
+ZT002000000000
+Le ,,,,0.75,,,,S,,0,0,,,A.Kasper@fontys.nl
+00L   ,kran,"Kranenburg,Rob van",,,,,,,,,N,,,0,403751138
+ZT000000000000
+Le ,,,,?,,,,lect,,0,0,,,Kranenbu@xs4all.nl
+00L   ,krb,"Krebbekx,Myriam",,,,,,,,,N,,,0,409671128
+ZA ,      111                                       111
+ZT000000000000 ,,,  1,,  1
+Le ,,,,0.75,,,,B,,0,0,,,M.Krebbekx@fontys.nl
+00L   ,krl,"Krielen,Marc",,,,,,,,,,,,0,409411300
+ZA ,              1111111111                       11111    1111111111
+ZT000000000000
+Le ,,,,0;5,,,,S,,0,0,,,M.Krielen@fontys.nl
+00L   ,krs,"Kuijpers, Nico",,,,,,,,,N,,,0,410371727
+ZT000000000000
+Le ,,,,1,,,,S,,0,0,,,nico.kuijpers@fontys.nl
+00L   ,kui,"Kuijk, Suzanne van",,,,,,,,,,,,0,409671131
+ZT000000000000 ,,,  1,,  1
+Le ,,,,1,,,,M,,0,0,,,s.vankuijk@fontys.nl
+00L   ,kwe,"Klaassen, Kea",,"ii&a",,,,,,,N,,,0,409671222
+ZT000000000000
+Le ,,,,1,,,,ii&a,,0,0,,,k.klaassen@fontys.nl
+00L   ,lah,"Lahaije, Paul",,,,,,,,,,,,0,408501423
+ZT000000000000 ,  1
+Le ,,,,0;8,,,,B,,0,0,,,p.lahaije@fontys.nl
+00L   ,Lar,"Laar,Sander v.",,,,1000,,,,,,,,0,407181518
+ZT000000000000
+Le ,,,,1,,,,S,,0,0,,,S.vanLaar@fontys.nl
+00L   ,Lam,"Lambooij, Peter",,,,,,,,,,,,0,410011206
+ZT000000000000
+Le ,,,,1,,,,T,,0,0,,,P.lambooij@fontys.nl
+00L   ,lanc,"Lancee, Wouter",,"15-8-12",,,,,,,N,,,0,410541023
+ZT000000000000
+Le ,,,,0.6,,,,M,,0,0,,,w.lancee@fontys.nl
+00L   ,lbg,"Litsenburg, John van",,,,,,,,,,,,0,409391402
+ZT000000000000
+Le ,,,,1,,,,M,,0,0,,,j.vanlitsenburg@fontys.nl
+00L   ,Lgh,"Langenhuizen,Marco",,,,,,,,,,,,0,409251603
+ZT000000000000
+Le ,,,,1,,,,B,,0,0,,,m.langenhuizen@fontys.nl
+00L   ,Lhs,"Leenhouwers, Bob",,,,,,,,,,,,0,406951255
+ZT000000000000
+Le ,,,,1,,,,alg,,0,0,,,B.leenhouwers@fontys.nl
+00L   ,Lht,"Langhorst, Tom",,,,,,,,,,,,0,409261032
+ZT000000000000 ,  1,,,  2
+Le ,,,,0;8,,,,M-g,,0,0,,,t.langhorst@fontys.nl
+00L   ,Lis,"Liegeois, Jolanda",,,,,,,,,,,,0,407211818
+ZA ,                                          3333               2222
+ZT000000000000 ,  1,,  1
+Le ,,,,0.67,,,,B,,0,0,,,j.liegeois@fontys.nl
+00L   ,Lk,"Lak,Albert",,,,,,,,,,,,0,406301517
+ZT000000000000 ,,,,  1
+Le ,,,,1,,,,S,,0,0,,,A.Lak@fontys.nl
+00L   ,Lmrs,"Lamers, Martijn",,,,,,,,,,,,0,409671209
+ZA ,2             2             2             2
+ZT000000000000 ,,,,,  1
+Le ,,,,0;8,,,,S,,0,0,,,m.lamers@fontys.nl
+00L   ,Lz,"Linnartz,Paul",,,,,,,,,,,,0,409671207
+ZA ,222222222                                 333333333
+ZT000000000000
+Le ,,,,1,,,,ei,,0,0,,,P.Linnartz@fontys.nl
+00L   ,man,"Maassen,Lucas",,,,,,,,,,,,0,409251804
+ZT000000000000 ,  1,  2
+Le ,,,,0;6,,,,M,,0,0,,,L.Maassen@fontys.nl
+00L   ,mas,"Maas,Ad",,,,,,,,,,,,0,409201141
+ZA ,22            22            22            22
+ZT000000000000 ,,,,,  1
+Le ,,,,1,,,,S,,0,0,,,A.Maas@fontys.nl
+00L   ,mbs,"Meulenbroeks,Frans",,,,,,,,,,,,0,405601743
+ZT000000000000
+Le ,,,,0;18,,,,S-dt,,0,0,,,F. Meulenbroeks@fontys.nl
+00L   ,Mel,"Mellema, Adriaan",,,,,,,,,,,,0,409671226
+ZA ,                      111111
+ZT000000000000 , 1,,  2
+Le ,,,,1,,,,alg,,0,0,,,a.mellema@fontys.nl
+00L   ,mols,"Mols, Erik",,,,,,,,,,,,0,406382333
+ZT000000000000 ,,,  1
+Le ,,,,0;8,,,,S,,0,0,,,e.mols@fontys.nl
+00L   ,MSN,"Maessen, Leo",,,,1000,,,,,N,,,0,407181353
+LK        1 9 4
+ZT000000000000
+Le ,,,,?,,,,e,,0,0,,,L.Maessen@fontys.nl
+00L   ,nar,"Narings,Marcel",,"ii&a",,,,,,,N,,,0,409671222
+ZT000000000000
+Le ,,,,1,,,,ii&a,,0,0,,,M.Narings@fontys.nl
+00L   ,ngn,"Nguyen,Long",,"inhuur",,,,,,,,,,0,409281101
+ZT000000000000
+Le ,,,,,,,,DT,,0,0,,,L.nguyen@fontys.nl
+00L   ,okp,"Oosterkamp,Jelle",,,,,,,,,,,,0,410011045
+ZA ,              11
+ZT000000000000
+Le ,,,,1,,,,S,,0,0,,,J.oosterkamp@fontys.nl
+00L   ,onk,"Oonk,Jan",,,,,,,,,,,,0,409671158
+ZT000000000000 ,,,,1
+Le ,,,,1,,,,M-g,,0,0,,,J.oonk@fontys.nl
+00L   ,oort,"Oort,Andre.v.",,,,,,,,,,,,0,409671226
+ZA ,              1111
+ZT000000000000 ,,,,,  1
+Le ,,,,0;25,,,,cit,,0,0,,,a.vanoort@fontys.nl
+00L   ,oos,"Oosten,Renate van",,,,,,,,,,,,0,410011207
+ZA ,                                          3333               1111
+ZT000000000000 ,  1
+Le ,,,,0;7,,,,T,,0,0,,,R.vanoosten@fontys.nl
+00L   ,OPS,"Opstal,Anton van",,"inhuur",,,,,,,N,,,0,409241547
+ZT000000000000
+Le ,,,,?,,,,FhFM,,0,0,,,A.vanopstal@fontys.nl
+00L   ,PAS,"Pas, Leo v.d.",,,,,,,,,N,,,0,398341654
+ZA , 666                        11
+ZT000000000000
+Le ,,,,,,,,com,,0,0,,,l.vandepas@fontys.nl
+00L   ,pasR,"Pas, Robbert",,,,,,,,,,,,0,410011144
+ZT000000000000
+Le ,,,,1,,,,M,,0,0,,,r.pas@fontys.nl
+00L   ,pent,"Penterman, Lisette",,,,,,,,,,,,0,407181638
+ZT000000000000 ,,,  1,  1
+Le ,,,,0;6,,,,M,,0,0,,,L.Penterman@fontys.nl
+00L   ,pes,"Pešic, Maja",,,,,,,,,,,,0,402141641
+ZT000000000000 ,  1
+Le ,,,,1,,,,S,,0,0,,,m.pesic@fontys.nl
+00L   ,prs,"Peeters,Frank",,,,,,,,,,,,0,405761712
+ZT000000000000 ,  1,,  1,  1,  1
+Le ,,,,1,,,,S,,0,0,,,F.Peeters@fontys.nl
+00L   ,rijt,"Rijt,Martin vd.",,,,1000,,,,,,,,0,409981019
+ZA ,                       3              4444          4444111111111
+ZT000000000000 ,  1
+Le ,,,,0;9,,,,B,,0,0,,,M.vandeRijt@fontys.nl
+00L   ,ros,"Roijers,Stefan",,,,,,,,,,,,0,410401146
+ZT000000000000 ,,,,,  1
+Le ,,,,1,,,,S,,0,0,,,S.Roijers@fontys.nl
+00L   ,rsn,"Roosen Frank",,,,,,,,,,,,0,410011145
+LK        1 9 1
+ZT000000000000
+Le ,,,,0;6,,,,M,,0,0,,,f.roosen@fontys.nl
+00L   ,rui,"Ruissen, Martijn",,,,,,,,,,,,0,410011146
+ZT000000000000 ,,,, 1,  1
+Le ,,,,0.8,,,,M,,0,0,,,m.ruissen@fontys.nl
+00L   ,rvs,"Reuvers,Nico",,,,,,,,,,,,0,398261123
+ZA ,666662222     111111111     111111111     111111111     111111111
+ZT000000000000
+Le ,,,,0;2,,,,B,,0,0,,,N.Reuvers@fontys.nl
+00L   ,s.ass.,"stud. assistent",,"inhuur",,,,,,,,,,0,410391551
+ZT000000000000
+Le ,,,,,,,,alg,,0,0
+00L   ,sac,"Sacan, Erdinc",,,,,,,,,,,,0,407211851
+ZA ,                        1111
+ZT000000000000
+Le ,,,,1,,,,B,,0,0,,,e.sacan@fontys.nl
+00L   ,san,"Sanden, Ella vdr.",,,,1000,0,16777215,,,,,,0,409671207
+ZA ,                            111111111
+ZT000000000000
+Le ,,,,1,,,,ei,,0,0,,,P.vanderSanden@fontys.nl
+00L   ,scr,"Schreur, Ben",,,,,,,,,,,,0,410011208
+ZT000000000000 ,  1
+Le ,,,,0;9,,,,T,,0,0,,,b.schreur@fontys.nl
+00L   ,sfg,"Schifferling, Michael",,,,,,,,,,,,0,410011208
+ZT000000000000 ,,,,  1
+Le ,,,,1,,,,T,,0,0,,,M.Schifferling@fontys.nl
+00L   ,scl,"Schol, David",,,,,,,,,,,,0,410011146
+ZT000000000000 ,,,  1
+Le ,,,,0.8,,,,M,,0,0,,,d.schol@fontys.nl
+00L   ,scht,"Schouten, Ed",,"junior",,,,,,,N,,,0,409671221
+ZT000000000000
+Le ,,,,0;2,,,,T,,0,0,,,E.schouten@fontys.nl
+00L   ,slas,"Slaats, Eric",,,,,,,,,,,,0,0
+ZA ,11                          11                          11
+ZT000000000000
+Le ,,,,1,,,,M,,0,0,,,E.Slaats@fontys.nl
+00L   ,slk,"Schellekens,Casper",,,,,,,,,,,,0,410011101
+ZT000000000000 ,,,,,  1
+Le ,,,,1,,,,S,,0,0,,,C.Schellekens@fontys.nl
+00L   ,SLOB,"Slobbe, Nico",,"inhuur",,,,,,,N,,,0,409241546
+ZT000000000000
+Le ,,,,?,,,,FhFM,,0,0,,,n.slobbe@fontys.nl
+00L   ,sol,"Sools, Tommy",,,,,,,,,,,,0,410651821
+ZT000000000000 ,  1,,  1,,  1
+Le ,,,,0;5,,,,T,,0,0,,,t.sools@fontys.nl
+00L   ,srk,"Schriek,Erik vdr.",,,,,,,,,,,,0,409671208
+ZA ,2                                         2             2
+ZT000000000000 ,,,  1
+Le ,,,,0;8,,,,ei,,0,0,,,E.vanderSchriek@fontys.nl
+00L   ,SST,"Soest, Paul van",,"inhuur",,,,,,,N,,,0,409241547
+ZT000000000000
+Le ,,,,,,,,M,,0,0,,,p.vansoest@home.nl
+00L   ,stm,"Stam, Hans van",,,,,,,,,N,,,0,410541042
+ZT000000000000
+Le ,,,,1,,,,S,,0,0,,,H.vanstam@fontys.nl
+00L   ,stra,"Stratum,Rob.v.",,,,,,,,,,,,0,407211851
+ZA ,5555          5555 2222     555555555          2222
+ZT000000000000
+Le ,,,,1,,,,B,,0,0,,,R.vanStratum@fontys.nl
+00L   ,thn,"Thomassen, Constanze",,,,,,,,,,,,0,409251807
+ZT000000100000
+Le ,,,,1,,,,M,,0,0,,,c.thomassen@fontys.nl
+00L   ,til,"Tilborg, Cees van",,,,,,,,,,,,0,407181718
+ZT000000000000
+Le ,,,,1,,,,T,,0,0,,,C.vanTilborg-ab@fontys.nl
+00L   ,tms,"Tillemans,Glenn",,,,,,,,,,,,0,410011148
+ZT000000000000 ,  1,  1,,  1
+Le ,,,,0;4,,,,M,,0,0,,,g.tillemans@fontys.nl
+00L   ,tns,"Tuns, Bram",,,,,,,,,,,,0,407291312
+ZT000000000000 ,  1,,,,  1
+Le ,,,,0;6,,,,M,,0,0,,,b.tuns@fontys.nl
+00L   ,ulr,"Ulrich, Yvonne",,,,1000,,,,,,,,0,409261202
+ZA ,1             1                           1
+ZT000000000000 ,,,  2,,  2
+Le ,,,,1,,,,S,,0,0,,,Y.Derksen@fontys.nl
+00L   ,vbk,"Verbeek, Peter",,,,,,,,,,,,0,409340958
+ZA ,2             2             2                           2
+ZT000000000000 ,,,,  1
+Le ,,,,1,,,,M,,0,0,,,p.verbeek@fontys.nl
+00L   ,ven,"Ven, Antoine v.d.",,"lectoraat",,,,,,,,,,0,409671222
+ZT000000000000 ,,,  6
+Le ,,,,,,,,alg,,0,0,,,antoine.vandeven@fontys.nl
+00L   ,VenR,"Ven, Rick v.d.",,"inhuur",,,,,,,,,,0,409671130
+ZT000000000000
+Le ,,,,?,,,,DT,,0,0,,,?
+00L   ,vgl,"Vleugel,Ko",,"inhuur",,,,,,,N,,,0,407981615
+ZT000000000000 ,,,,  1,  1
+Le ,,,,0,,,,B,,0,0,,,K.Vleugel@fontys.nl
+00L   ,vgr,"Vlugter, Johan",,,,,,,,,,,,0,407981615
+ZT000000000000
+Le ,,,,1,,,,cit,,0,0,,,J.vlugter@fontys.nl
+00L   ,vhp,"Verhees, Ine",,,,,,,,,,,,0,409261638
+ZA ,666666611                   116666611
+ZT000000000000 ,,  1,,  1,  1
+Le ,,,,0;5,,,,B,,0,0,,,I.Verhees@fontys.nl
+00L   ,vhz,"Veldhuijzen, Marcel",,,,,,,,,,,,0,409961700
+ZT000000000000
+Le ,,,,,,,,S,,0,0,,,m.veldhuijzen@fontys.nl
+00L   ,vis,"Vissers, Ad",,,,,,,,,N,,,0,407981616
+ZT000000000000
+Le ,,,,1,,,,alg,,0,0,,,a.vissers@fontys.nl
+00L   ,vke,"Valke, Karin",,,,,,,,,,,,0,409671225
+ZT000000000000
+Le ,,,,0;6,,,,alg,,0,0,,,k.valke@fontys.nl
+00L   ,vld,"Veld, Ben",,,,,,,,,,,,0,407291312
+ZT000000000000 ,  1
+Le ,,,,1,,,,M,,0,0,,,b.veld@fontys.nl
+00L   ,vnm,"Veneman, Woody",,,,,,,,,,,,0,407181641
+ZT000000000000 ,,,,  1,  1
+Le ,,,,0;6,,,,M,,0,0,,,W.Veneman@fontys.nl
+00L   ,von,"Vonken,Frens",,,,,,,,,,,,0,409251809
+ZT001000000000 ,  1,,,,  1
+Le ,,,,1,,,,M,,0,0,,,F.Vonken@fontys.nl
+00L   ,vrn,"Verhagen, Jos",,,,1000,,,,,,,,0,409671221
+ZT000000000000 ,,,  1
+Le ,,,,0;8,,,,T,,0,0,,,J.Verhagen@fontys.nl
+00L   ,vuh,"Vucht,Mieke v.",,,,,,,,,,,,0,408501422
+ZT000000000000
+Le ,,,,1,,,,cit,,0,0,,,M.vanVucht@fontys.nl
+00L   ,Vv,"Veugen, Agnes",,,,1000,,,,,,,,0,409671208
+ZA ,11   2222          2222          2222          2222          2222
+ZT000000000000
+Le ,,,,0;57,,,,ei,,0,0,,,A.Veugen@fontys.nl
+00L   ,vwn,"Verwaaijen, Sjaak",,,,,,,,,,,,0,409261203
+ZA ,2             2             2             2             2
+ZT001000000000
+Le ,,,,1,,,,S,,0,0,,,s.verwaaijen@fontys.nl
+00L   ,wbk,"Waarbroek, Luuk",,,,,,,,,,,,0,409961705
+ZT000000000000
+Le ,,,,1,,,,M,,0,0,,,L.waarbroek@fontys.nl
+00L   ,wgs,"Wijgergangs,Lucienne",,,,,,,,,,,,0,409551309
+ZA ,       22            22            22
+ZT000000000000 ,,,,,  1
+Le ,,,,0;8,,,,B,,0,0,,,L.Wijgergangs@fontys.nl
+00L   ,WHN,"Wijnhoven, Karinka",,"inhuur",,,,,,,N,,,0,410011152
+ZA ,                                          11111     1111
+ZT000000000000 ,  1,  1,  1,,  1
+Le ,,,,,,,,M,,0,0,,,karinkawijnhoven@me.com
+00L   ,wijn,"Wijdeven, Jessika van de",,,,,,,,,,,,0,407181644
+ZT000000000000 ,,,  1
+Le ,,,,0;8,,,,M,,0,0,,,J.vandewijdeven@fontys.nl
+00L   ,wja,"Wijnja,Tiemen",,,,,,,,,,,,0,409671218
+ZT002000000000 ,,,,,  1
+Le ,,,,0;25,,,,S,,0,0,,,T.Wijnja@fontys.nl
+00L   ,wld,"Wieland, Arnold",,,,1000,,,,,,,,0,407211856
+ZA ,       22            22            22            22
+ZT000000000000 ,,,,,  2
+Le ,,,,1,,,,B,,0,0,,,A.Wieland@fontys.nl
+00L   ,wls,"Wels, Pieter",,,,,,,,,,,,0,409671133
+ZT000000000000 ,,,,  1
+Le ,,,,0;8,,,,M,,0,0,,,p.wels@fontys.nl
+00L   ,WMS,"Wijckmans, Leon",,"ei-msc",,,,,,,N,,,0,407181401
+ZT000000000000
+Le ,,,,,,,,emm,,0,0,,,L.Wijckmans@fontys.nl
+00L   ,wolf,"Wolf-Guis,Corrie",,,,,,,,,,,,0,409251810
+ZA ,                     11     222221111
+ZT000000000000 ,,,,,  1
+Le ,,,,0;6,,,,M,,0,0,,,CP.Wolf@fontys.nl
+00L   ,zls,"Zijlmans, Jack",,,,1000,,,,,,,,0,409671208
+ZT000000000000
+Le ,,,,1,,,,ei,,0,0,,,J.Zijlmans@fontys.nl
+00L   ,zms,"Zijlmans,Wim",,,,,,,,,,,,0,409671129
+ZA ,       22            22            22            22
+ZT000000000000 ,,,,,  2
+Le ,,,,0;5,,,,B,,0,0,,,W.Zijlmans@fontys.nl
+00L   ,ZWS,"Zwegers,Patrick",,"inhuur",,,,,,,N,,,0,409671222
+ZT000000000000
+Le ,,,,?,,,,alg,,0,0,,,P.Zwegers@fontys.nl
+00L   ,zwt,"Zwartjes, Gerrie",,,,,,,,,,,,0,408541324
+ZT000000000000 ,  1,,  1
+Le ,,,,0;7,,,,M,,0,0,,,G.Zwartjes@fontys.nl
+00L   ,-,,,,,,,,,,N,,,0,0
+ZT000000000000
+Le ,,,,,,,,,,0,0
+00L   ,xxx,"gastdocent",,,,,,,,,,,,0,404631215
+ZT000000000000
+Le ,,,,,,,,extern,,0,0
+00L   ,nhs,"Nieuwenhuis, Sonja",,"tijdelijk",,,,,,,,,,0,410121651
+ZT000000000000
+Le ,,,,,,,,B,,0,0
+00L   ,sbs,"Schoeberichs, bjorn",,"inhuur",,,,,,,N,,,0,410011154
+ZT000000000000
+Le ,,,,?,,,,gd,,0,0
+00L   ,MCY,"Monchy, Carolien de",,"inhuur",,,,,,,N,,,0,407291053
+ZT000000000000
+Le ,,,,?,,,,cit,,0,0
+00L   ,HMSTR,"Heemstra, Fred",,"inhuur",,,,,,,N,,,0,409281401
+ZT000000000000
+Le ,,,,?,,,,cit,,0,0
+00L   ,verwa,"Verwaal, ilona",,"inhuur",,,,,,,N,,,0,410011154
+ZT000000000000
+Le ,,,,,,,,engineering,,0,0
+00L   ,brc,,,,,,,,,,N,,,0,410041320
+ZT000000000000
+Le ,,,,,,,,TB,,0,0
+00L_  ,?,"onbekend",,,,1000,,,,,,_,,0,407181427
+ZT000000000000
+Le ,,,,,,,,,,0,0

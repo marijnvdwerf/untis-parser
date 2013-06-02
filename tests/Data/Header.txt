@@ -1,0 +1,66 @@
+AA01 gp-Untis    2010 0  1   112       ,,Jan  4 2011,2560,,0,1
+AA02 20120423 20120715 125 14 9  0  11 0  0   0     1
+AA03 ,Fontys Hogeschool ICT,DPUT
+AA04FONTYS HOGESCHOLEN EINDHOVEN
+AA05eindhoven
+AA062011/2012 - kw.4
+AA07
+AA08A0  0 00 0 0 0 0 1         000000000000000000000000 00 000 00000              ,7,7
+AA09NBL-213 MAH-PKV WCD-235 20121001 2012 626 17 7 XRQ-503
+AA11 1 5  6 14 0 0           *10*11
+AA12 1 5  6 14 0 0           *10*11
+AA13 1 5  6 14 0 0           *10*11
+AA14 1 5  6 14 0 0           *10*11
+AA15 1 5  6 14 0 0           *10*11
+AA20A0pc-Untis/0.4 14.x A GPSUL  ;
+AA20A1FONTYS HOGESCHOLEN EINDHOVEN
+AA20A2eindhoven
+AA20A3      5343270988107625471369
+AA20A49501050953012 U   8707230854
+AA20A5HH:FFFFF/LLLLL/UUUU/RRRRR, ;
+AA20A6HH:FFFFF/KKKKK/UUUU/RRRRR, ;
+AA20A7HH:FFFFF/LLLLL/KKKKK/UUUU, ;
+AA20A8Stundenplan 1997/98        ;
+AA20A9gilt ab 1.10.1997          ;
+AA20B145  18  7 10 13  7731      ;
+AA20B211223344                   ;
+AA20B306083  32404             1 ;
+AA20B43323313240342323212  3432303
+AA20B50104233  002          000232
+AA20B6** g r u b e r  &  p e t t e
+AA20B7 r s  -  s o f t w a r e  **
+AA20B8               DEMO        ;
+AA20B9                           ;
+AA20C11 5 6 8 2 0 0 0 0          ;
+AA20C21 5 6 8 2 0 0 0 0          ;
+AA20C31 5 6 8 2 0 0 0 0          ;
+AA20C41 5 6 8 2 0 0 0 0          ;
+AA20C51 5 6 8 2 0 0 0 0          ;
+AA20C61 5 0 0 2 0 0 0 0          ;
+AA20C70 0 0 0 0 0 0 0 0          ;
+AA20C8                           ;
+AA20C9970919980624               ;
+AA20D1                           ;
+AA20D2                           ;
+AA20D3FONTYS HOGESCHOLEN EINDHOVEN
+AA20D4      837726784419025711   ;
+AA20D5FONTYS HOGESCHOLEN EINDHOVEN
+AA20D69912311586599708020520     ;
+AA20D7                           ;
+AA20D8                           ;
+AA20D9                           ;
+AA20DA                           ;
+AA20DB                           ;
+AA20DC                           ;
+AA30 0  050 025 0 5 015 0 5          1   1111010     ,,0~0~0~0~0~0~0~0~0~0~0~0,,100,100,-1,-1,,20120423,20120715
+AA51 845- 935  935-1025 1045-1135 1135-1225 1225-1315 1315-14 5 14 5-1455 1515-16 5 16 5-1655 1655-1745 18 0-1850 1850-1940 20 0-2050 2050-2140
+AA53         b2 10 NL                          ,3~20~5~80~50~50~3~5,0~0~80~0~0~1~0~0~0~0~0,Pd,0~3~0~1000,14740,10,1,13,1,2,,0,1,0
+AA54              55
+AA55     ,KLRF,klasfhi,Docfhi,lokfhi,Lee1,Urenlijst-Kla0,Urenlijst-Doc0,2,,,100,Vakfhi,00013500,Urenlijst-Kla0,1,20,4
+AA56     ,0
+AA57  1 2K     ,Standaard,Urenlijst-Kla0,1,20,4,,00000000,2,0,,,,0,0
+AA58      ,845~935,935~1025,1045~1135,1135~1225,1225~1315,1315~1405,1405~1455,1515~1605,1605~1655,1655~1745,1800~1850,1850~1940,2000~2050,2050~2140
+AA59  1 2      ,Standaard,KLRF,klasfhi,Docfhi,lokfhi,Vakfhi,Lee1,Urenlijst-Kla0,Urenlijst-Doc0,7,100,00013500,,,,1,0
+AA60           ,1,0
+AA61
+AA62  1
